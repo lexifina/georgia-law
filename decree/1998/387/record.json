@@ -1,0 +1,32 @@
+{
+  "matsne_id": 23638,
+  "title": "უცხოელთათვის თავშესაფრის მიცემის შესახებ დებულების თაობაზე",
+  "status": "expired",
+  "history": "as-enacted",
+  "publication": 0,
+  "source": "https://matsne.gov.ge/ka/document/view/23638?publication=0",
+  "source_sha256": "f0db53333945ebf8b96e17cba39c3c04ea0642f78a4b869773c5def662bec211",
+  "adopted": "1998-06-25",
+  "published": "1998-06-30",
+  "in_force": "1998-09-01",
+  "in_force_basis": "date in the act",
+  "amendments_applied": false,
+  "amending_acts": [
+    {
+      "act_id": 2368961,
+      "title": "უცხოელთათვის თავშესაფრის მიცემის შესახებ დებულების დამტკიცების თაობაზე",
+      "raw": "1. 10/06/2014 - საქართველოს პრეზიდენტის ბრძანებულება - 227 - ვებგვერდი, 10/06/2014",
+      "n": 1,
+      "adopted": "2014-06-10",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "227",
+      "source": "ვებგვერდი, 10/06/2014",
+      "published": "2014-06-10",
+      "transitional": false
+    }
+  ],
+  "personal_decision_metadata_only": false,
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_deferred": 0
+}
