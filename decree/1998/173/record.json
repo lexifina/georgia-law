@@ -1,0 +1,32 @@
+{
+  "matsne_id": 23548,
+  "title": "მოხელეთა რეზერვის შესახებ დებულების დამტკიცების თაობაზე",
+  "status": "expired",
+  "history": "as-enacted",
+  "publication": 0,
+  "source": "https://matsne.gov.ge/ka/document/view/23548?publication=0",
+  "source_sha256": "1be6e55c6a88d0fbc215566c303e41672b9ed04de8d7a0aff2a05b19c1cbaf52",
+  "adopted": "1998-03-25",
+  "published": "1998-03-31",
+  "in_force": "1998-03-31",
+  "in_force_basis": "published (no in-force article found)",
+  "amendments_applied": false,
+  "amending_acts": [
+    {
+      "act_id": 1024406,
+      "title": ",,მოხელეთა რეზერვის შესახებ დებულების დამტკიცების თაობაზე“ საქართველოს პრეზიდენტის 1998 წლის 25 მარტის №173 ბრძანებულების ძალადაკარგულად გამოცხადების შესახებ",
+      "raw": "1. 23/08/2010 - საქართველოს პრეზიდენტის ბრძანებულება - 665 - სსმ, 102, 23/08/2010",
+      "n": 1,
+      "adopted": "2010-08-23",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "665",
+      "source": "სსმ, 102, 23/08/2010",
+      "published": "2010-08-23",
+      "transitional": false
+    }
+  ],
+  "personal_decision_metadata_only": false,
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_deferred": 0
+}
