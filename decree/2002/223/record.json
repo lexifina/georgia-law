@@ -1,0 +1,32 @@
+{
+  "matsne_id": 3634,
+  "title": "„საქართველოს პატენტრწმუნებულთა შესახებ\" დებულების თაობაზე",
+  "status": "expired",
+  "history": "as-enacted",
+  "publication": 0,
+  "source": "https://matsne.gov.ge/ka/document/view/3634?publication=0",
+  "source_sha256": "913998468b04a93572a1d2a0d4855482d8eef60482c0a18d46e0594942c6851c",
+  "adopted": "2002-05-08",
+  "published": "2002-05-10",
+  "in_force": "2002-05-10",
+  "in_force_basis": "published (no in-force article found)",
+  "amendments_applied": false,
+  "amending_acts": [
+    {
+      "act_id": 92464,
+      "title": "„საქართველოს საპატენტო კანონში ცვლილებებისა და დამატებების შეტანის შესახებ“",
+      "raw": "1. 04/05/2010 - საქართველოს კანონი - 3031 - სსმ, 27, 24/05/2010",
+      "n": 1,
+      "adopted": "2010-05-04",
+      "type": "საქართველოს კანონი",
+      "number": "3031",
+      "source": "სსმ, 27, 24/05/2010",
+      "published": "2010-05-24",
+      "transitional": false
+    }
+  ],
+  "personal_decision_metadata_only": false,
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_deferred": 0
+}
