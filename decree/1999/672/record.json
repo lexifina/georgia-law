@@ -1,0 +1,44 @@
+{
+  "matsne_id": 21826,
+  "title": "ღვაწლმოსილ მოღვაწეთა დაკრძალვის წესის შესახებ",
+  "status": "active",
+  "history": "as-enacted",
+  "publication": 0,
+  "source": "https://matsne.gov.ge/ka/document/view/21826?publication=0",
+  "source_sha256": "d21ebf0d4e7a2fdc71ea5d2728c1724181efcc9a5b62e941b4c1109ea97d98e7",
+  "adopted": "1999-12-17",
+  "published": "1999-12-24",
+  "in_force": "1999-12-24",
+  "in_force_basis": "published (no in-force article found)",
+  "amendments_applied": false,
+  "amending_acts": [
+    {
+      "act_id": 107536,
+      "title": "„ღვაწლმოსილ მოღვაწეთა დაკრძალვის წესის შესახებ“ საქართველოს პრეზიდენტის 1999 წლის 17 დეკემბრის №672 ბრძანებულებაში ცვლილებების შეტანის თაობაზე“",
+      "raw": "2. 19/05/2010 - საქართველოს პრეზიდენტის ბრძანებულება - 322 - სსმ, 56, 20/05/2010",
+      "n": 2,
+      "adopted": "2010-05-19",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "322",
+      "source": "სსმ, 56, 20/05/2010",
+      "published": "2010-05-20",
+      "transitional": false
+    },
+    {
+      "act_id": 100348,
+      "title": "„ღვაწლმოსილ მოღვაწეთა დაკრძალვის წესის შესახებ“ საქართველოს პრეზიდენტის 1999 წლის 17 დეკემბრის №672 ბრძანებულებაში ცვლილებების შეტანის თაობაზე“",
+      "raw": "1. 29/03/2007 - საქართველოს პრეზიდენტის ბრძანებულება - 216 - სსმ, 44, 30/03/2007",
+      "n": 1,
+      "adopted": "2007-03-29",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "216",
+      "source": "სსმ, 44, 30/03/2007",
+      "published": "2007-03-30",
+      "transitional": false
+    }
+  ],
+  "personal_decision_metadata_only": false,
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_deferred": 0
+}
