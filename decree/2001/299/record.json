@@ -1,0 +1,32 @@
+{
+  "matsne_id": 20836,
+  "title": "საქართველოს ტექნიკური უნივერსიტეტის შესახებ",
+  "status": "active",
+  "history": "as-enacted",
+  "publication": 0,
+  "source": "https://matsne.gov.ge/ka/document/view/20836?publication=0",
+  "source_sha256": "36ecf7733566eb24193a72fd3de169ff418c1c969dbcb1056e5205bc288d365e",
+  "adopted": "2001-07-28",
+  "published": "2001-07-30",
+  "in_force": "2001-07-30",
+  "in_force_basis": "published (no in-force article found)",
+  "amendments_applied": false,
+  "amending_acts": [
+    {
+      "act_id": 95200,
+      "title": ",,საჯარო სამართლის იურიდიული პირის – უმაღლესი საგანმანათლებლო დაწესებულების რექტორის მოვალეობის შემსრულებლისა და ფაკულტეტის დეკანის მოვალეობის შემსრულებლის უფლებამოსილების განსაზღვრისა და საქართველოს პრეზიდენტის ზოგიერთი ბრძანებულების ნაწილობრივ ძალადაკარგულად გამოცხადების შესახებ”",
+      "raw": "1. 08/06/2005 - საქართველოს პრეზიდენტის ბრძანებულება - 473 - სსმ, 69, 10/06/2005",
+      "n": 1,
+      "adopted": "2005-06-08",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "473",
+      "source": "სსმ, 69, 10/06/2005",
+      "published": "2005-06-10",
+      "transitional": false
+    }
+  ],
+  "personal_decision_metadata_only": false,
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_deferred": 0
+}
