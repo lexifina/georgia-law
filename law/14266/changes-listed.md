@@ -1,5 +1,6 @@
 შეტანილი ცვლილებები:
 1. საქართველოს 2003 წლის 28 მარტის კანონი №2048 - სსმ I, №10, 24.04.2003 წ., მუხ.55
+2. საქართველოს 2003 წლის 22 ივლისის კანონი №2556 - სსმ I, №24, 20.08.2003 წ., მუხ.181
 დანართი
 საქართველოში სპეციალურ კონტროლს დაქვემდებარებული ნარკოტიკული საშუალებების, ფსიქოტროპული
 ნივთიერებებისა და პრეკურსორების სიები
@@ -63,6 +64,8 @@ N-(1-beta-hydroxyphenethyl)-4-piperidyl-propionanilide
 21-cyclopropyl-7-alpha-[(S)(-1-hydroxy-1,2,2-trimethylpropyl]-6,14-endo-ethano-6,7,8,14-tetrahydrooripavine
 - ბუტალბიტალი (BUTALBITAL)
 5-allyl-5-isobutylbarbituric acid
+-ბუტორფანოლი (BUTORPHANOL),
+(-)-17-(cyclobuthylmethyl)-morphinan,3,14 diol
 - გლუტეთიმიდი (ნოქსირონი) (GLUTETHIMIDE)
 2-ethyl-2-phenylglutarimide
 - დეზომორფინი (DESOMORPHINE)
@@ -242,6 +245,8 @@ myristylbenzylmorphine
 - მორფინ-N-ოქსიდი (MORPHINE - N-OXIDE)
 - მფპპ (MPPP)
 1-methyl-4-phenyl-4-piperidine propionat (ester)
+-ნალბუფინი (NALBUPFYNE),
+(-)-17-(cyclobuthylmethyl)-4,5a-epoxy morphinan-3,6a, 14 - triol
 - ნიკოდიკოდინი (NICODICODINE)
 6-nicotinyldihydrocodeine
 - ნიკოკოდინი (NICOCODINE)
@@ -339,6 +344,7 @@ N-[4-(methoxymethyl)-1-[2-(2-thienyl)-ethyl]-4-piperidyl] propionanilide
 ● კოდეინი 0,03 გ + პარაცეტამოლი 0,500 გ
 ● კოდეინი 0,015 გ + ნატრიუმის ჰიდროკარბონატი 0,25 გ
 ● კოდტერპინის
+● ტერპინკოდი
 - ტენამფეტამინი (TENAMFETAMINE) (MDA)
 alpha-methyl-3,4-(methylenedioxy)phenethylamine
 - ტენოციკლიდინი (TENOCYCLIDINE)
@@ -355,6 +361,7 @@ alpha-methyl-3,4-(methylenedioxy)phenethylamine
 - ტმა, 3,4,5-ტრომეთოქსიამფეტამინი
 (TMA, 3,4,5-TRIMETHOXYAMFETAMINE)
 (+-)-3,4,5-trimethoxy-alpha-methylphenethylamine
+-ტრამადოლი (TRAMADOL)
 - ტრიმეპერიდინი (TRIMEPERIDINE)
 1,2,5-trimethyl-4-phenyl-4-propionoxypiperidine
 - ფენადოქსონი (PHENADOXONE)
@@ -423,6 +430,7 @@ dihydromorphinone
 კ) დიფენოქსილატის შემცველი პრეპარატები, რომლებიც შეიცავს მის 2,5 და მეტ მილიგრამს დიფენოქსილატ-ფუძეზე გადაანგარიშებით და ატროპინის სულფატის იმ რაოდენობას, რომელიც ეკვივალენტურია დიფენოქსილატის დოზის 1 პროცენტისა;
 ლ) მასში ჩამოთვლილი ნივთიერებებისაგან კუსტარულად დამზადებული ნებისმიერი სახის ნარევი.
 2. I სიას არ მიეკუთვნება ლევომეტორფანის და ლევორფანოლის იზომერები, შესაბამისად დექსტრომეტორფანი [(+)-3-methyl-N-methylmorphinan] და დექსტრორფანი [(+)-3-hydroxy-N-methylmorphinan], რომლებიც სპეციალურად არის ამოღებული ამ სიიდან.
+საქართველოს 2003 წლის 22 ივლისის კანონი №2556 - სსმ I, №24, 20.08.2003 წ., მუხ.181
 სია II
 მკაცრად შეზღუდული ნარკოტიკული საშუალებების ჩამონათვალი
 - ალფა-მეთილთიოფანტანილი (ALPHA-METHYLTHIOFENTANYL)
@@ -516,6 +524,7 @@ papaver somniferum L- ის სახეობის მცენარე
 - ამფეტამინი (AMFETAMINE)
 - ბუპრენორფინი (BUPRENORPHINE)
 - ბუტალბიტალი (BUTALBITAL)
+-ბუტორფანოლი (BUTORPHANOL)
 - გლუტეთიმიდი (ნოქსირონი) (GLUTETHIMIDE)
 - დექსტრომორამიდი (DEXTROMORAMIDE)
 - დექსტროპროფოქსიფენი (DEXTROPROPOXYPHENE)
@@ -527,6 +536,7 @@ papaver somniferum L- ის სახეობის მცენარე
 კოკაინი (COCAINE)
 მეთადონი (METHADONE)
 - მორფინი (MORPHINE)
+-ნალბუფინი (NALBUPFYNE)
 - ომნოპონი (OMNOPONE)
 - ოპიუმი სამედიცინო (OPII MEDICINALIS)
 - პეთიდინი (PETHIDINE)
@@ -542,12 +552,15 @@ papaver somniferum L- ის სახეობის მცენარე
 ● კოდეინი 0,03 გ + პარაცეტამოლი 0,500 გ
 ● კოდეინი 0,015 გ + ნატრიუმის ჰიდროკარბონატი 0,25 გ
 ● კოდტერპინის
+● ტერპინკოდი
 - ტილიდინი (TILIDINE)
+-ტრამადოლი (TRAMADOL)
 - ტრიმეპერიდინი (TRIMEPERIDINE)
 - ფენტანილი (FENTANYL)
 - ფლუნიტრაზეპამი (FLUNITRAZEPAM)
 - ფოლკოდინი (PHOLCODINE)
 ციკლობარბიტალი ( ციკორაპიიაო) (CYCLOBARBITAL)
+საქართველოს 2003 წლის 22 ივლისის კანონი №2556 - სსმ I, №24, 20.08.2003 წ., მუხ.181
 სია IV
 ფსიქოტროპული ნივთიერებების ჩამონათვალი
 - ალობარბიტალი (ALLOBARBITAL)
