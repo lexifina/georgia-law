@@ -1,0 +1,32 @@
+{
+  "matsne_id": 27184,
+  "title": "საქართველოს რკინიგზელის დღის შესახებ",
+  "status": "expired",
+  "history": "as-enacted",
+  "publication": 0,
+  "source": "https://matsne.gov.ge/ka/document/view/27184?publication=0",
+  "source_sha256": "a647836bff49e2828cffc2ceaf31cb69941248ec9f7b174d33bc76845117af8e",
+  "adopted": "1996-11-16",
+  "published": "1996-11-16",
+  "in_force": "1996-11-16",
+  "in_force_basis": "published (no in-force article found)",
+  "amendments_applied": false,
+  "amending_acts": [
+    {
+      "act_id": 5572321,
+      "title": "„საქართველოს რკინიგზელის დღის შესახებ“ საქართველოს პრეზიდენტის 1996 წლის 16 ნოემბრის №743 ბრძანებულების ძალადაკარგულად გამოცხადების თაობაზე",
+      "raw": "1. 15/09/2022 - საქართველოს პრეზიდენტის ბრძანებულება - 419 - ვებგვერდი, 19/09/2022",
+      "n": 1,
+      "adopted": "2022-09-15",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "419",
+      "source": "ვებგვერდი, 19/09/2022",
+      "published": "2022-09-19",
+      "transitional": false
+    }
+  ],
+  "personal_decision_metadata_only": false,
+  "images_source": 0,
+  "images_referenced": 0,
+  "images_deferred": 0
+}
