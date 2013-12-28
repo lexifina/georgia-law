@@ -1,6 +1,7 @@
 შეტანილი ცვლილებები:
 1. საქართველოს 2013 წლის 24 ივლისის კანონი №845 - ვებგვერდი, 13.08.2013წ.
 2. საქართველოს 2013 წლის 20 სექტემბრის კანონი №1240 - ვებგვერდი, 01.10.2013წ.
+3. საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 28.12.2013წ.
 დანართი №1
 სია I
 ბრუნვისათვის მკაცრად შეზღუდული ნარკოტიკული საშუალებები
@@ -116,7 +117,7 @@ N,N-diallyl-5-methoxytryptamine
 28
 N-ჰიდროქსი მდა
 N-HYDROXY MDA
-(±)-N[α -methyl-3,4-(methylenedioxy)phenethyl] hydroxylamine
+(±)-N[ α -methyl-3,4-(methylenedioxy)phenethyl] hydroxylamine
 29
 ალფამეთადოლი
 ALPHAMETHADOL
@@ -132,7 +133,7 @@ N-[1-[1-methyl-2-(2-thienyl)ethyl]-4-piperidyl] propionanilide
 32
 ალფა - მეთილფენტანილი
 ALPHA-METHYLFENTANYL
-N-[1-(α -methylphenethyl)-4-piperidyl]propionanilide
+N-[1-( α -methylphenethyl)-4-piperidyl]propionanilide
 33
 ალფამეპროდინი
 ALPHAMEPRODINE
@@ -152,7 +153,7 @@ ACETYLMETHADOL
 37
 აცეტორფინი
 ACETORPHINE
-3-O-acetyltetrahydro-7α -(1-hydroxy-1-methylbutyl)-6,14-endo-ethenooripavine
+3-O-acetyltetrahydro-7 α -(1-hydroxy-1-methylbutyl)-6,14-endo-ethenooripavine
 (derivative of thebaine)
 (თებაინის წარმოებული)
 38
@@ -186,11 +187,11 @@ BETACETYLMETHADOL
 45
 ბეტა - ჰიდროქსი -3- მეთილფენტანილი
 BETA-HYDROXY-3-METHYLFENTANYL
-N-[1-(β -hydroxyphenethyl)-3-methyl-4-piperidyl]propionanilide
+N-[1-( β -hydroxyphenethyl)-3-methyl-4-piperidyl]propionanilide
 46
 ბეტა - ჰიდროქსიფენტანილი
 BETA-HYDROXYFENTANYL
-N-[1-(β -hydroxyphenethyl)-4-piperidyl]propionanilide
+N-[1-( β -hydroxyphenethyl)-4-piperidyl]propionanilide
 47
 ბკ-პმმა/მეთედრონი *
 BK-PMMA/METHEDRONE
@@ -252,7 +253,7 @@ DIMEPHEPTANOL
 61
 დიჰიდროეტორფინი
 DIHYDROETORPHINE
-7,8-dihydro-7α -[1-(R)-hydroxy-1-methylbutyl]-6,14-endo-ethanotetrahydrooripavine
+7,8-dihydro-7 α -[1-(R)-hydroxy-1-methylbutyl]-6,14-endo-ethanotetrahydrooripavine
 (derivative of etorphine)
 (ეტორფინის წარმოებული)
 62
@@ -311,7 +312,7 @@ ETONITAZENE
 75
 ეტორფინი
 ETORPHINE
-tetrahydro-7α -(1-hydroxy-1-methylbutyl)-6,14-endo-ethenooripavine
+tetrahydro-7 α -(1-hydroxy-1-methylbutyl)-6,14-endo-ethenooripavine
 (derivative of thebaine)
 (თებაინის წარმოებული)
 76
@@ -374,7 +375,7 @@ the leaf of the coca bush (plant material), except a leaf from which all ecgonin
 89
 კრატომი *
 KRATOM
-Mitragynin/7α -Hydroxy-7H-mitragynin/Paynanthein
+Mitragynin/7 α -Hydroxy-7H-mitragynin/Paynanthein
 90
 ლევომეტორფანი
 LEVOMETHORPHAN
@@ -398,15 +399,15 @@ LSA
 95
 მდე , N- ეთილ მდა
 MDE, N-ETHYL MDA
-(±)-N-ethyl-α -methyl-3,4-(methylenedioxy) phenethylamine
+(±)-N-ethyl- α -methyl-3,4-(methylenedioxy) phenethylamine
 96
 მდმა
 MDMA
-(±)-N,α -dimethyl-3,4-(methylenedioxy) phenethylamine
+(±)-N, α -dimethyl-3,4-(methylenedioxy) phenethylamine
 97
 მდპპფ *
 MDPPP
-3',4'-methylenedioxy-α -pyrrolidinopropiophenone
+3',4'-methylenedioxy- α -pyrrolidinopropiophenone
 98
 მდფვ *
 MDPV
@@ -422,7 +423,7 @@ METHADONE INTERMEDIATE
 101
 მეთილდეზორფინი
 METHYLDESORPHINE
-6-methyl-Δ 6-deoxymorphine
+6-methyl- Δ 6-deoxymorphine
 (derivative of morphine)
 (მორფინის წარმოებული)
 102
@@ -478,7 +479,7 @@ Myristylbenzylmorphine
 113
 მმდა
 MMDA
-5-methoxy-α -methyl-3,4-(methylenedioxy) phenethylamine
+5-methoxy- α -methyl-3,4-(methylenedioxy) phenethylamine
 114
 მორამიდის სინთეზის შუალედური პროდუქტი
 MORAMIDE INTERMEDIATE
@@ -759,6 +760,15 @@ diacetylmorphine
 ჰუ-210 *
 HU-210
 1,1-dimethylheptyl-11-hydroxytetrahydrocannabinol
+183
+ჯვჰ-081 *
+JWH-081
+4-methoxynaphthalen- 1-yl- (1-pentylindol- 3-yl)methanone
+184
+ჯვჰ-122 *
+JWH-122
+4- methyl- 1- naphthalenyl)(1- pentyl- 1H- indol- 3- yl)- methanone
+საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 2 8 .1 2 .2013წ.
 შენიშვნები:
 1. I სიას მიეკუთვნება აგრეთვე:
 ა) მასში შეტანილ ნივთიერებათა იზომერები, თუ ასეთი იზომერების არსებობა შესაძლებელია მოცემული კონკრეტული ქიმიური აღნიშვნის ფარგლებში, გარდა იმ შემთხვევისა, როდესაც რომელიმე ნივთიერების იზომერი სპეციალურად არის ამოღებული ამ სიიდან;
@@ -814,7 +824,7 @@ ACETYLDIHYDROCODEINE
 10
 ბუპრენორფინი
 BUPRENORPHINE
-2l-cyclopropyl-7-α -[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14- endo-ethano-6,7,8,14-tetrahydrooripavine
+2l-cyclopropyl-7- α -[(S)-1-hydroxy-1,2,2-trimethylpropyl]-6,14- endo-ethano-6,7,8,14-tetrahydrooripavine
 11
 ბუტალბიტალი
 BUTALBITAL
@@ -900,7 +910,7 @@ ETOXERIDINE
 29
 ზიპეპროლი
 ZIPEPROL
-α -(α -methoxybenzyl)-4-(β -methoxyphenethyl)-1-piperazineethanol
+α -( α -methoxybenzyl)-4-( β -methoxyphenethyl)-1-piperazineethanol
 30
 თებაინი
 THEBAINE
@@ -933,7 +943,7 @@ methyl ester of benzoylecgonine
 36
 ლევამფეტამინი
 LEVAMFETAMINE (levamphetamine)
-(-)-(R)-α -methylphenethylamine(amphetamine(-)isomer
+(-)-(R)- α -methylphenethylamine(amphetamine(-)isomer
 37
 ლევომეტამფეტამინი
 LEVOMETHAMPHETAMINE
@@ -975,7 +985,7 @@ the principal alkaloid of opium and of opium poppy
 46
 ნალბუფინი
 NALBUPHINE
-(-)-17-(cyclobutylmethyl)- 4,5α -epoxymorphinan- 3,6α ,14-triol hydrochloride
+(-)-17-(cyclobutylmethyl)- 4,5 α -epoxymorphinan- 3,6 α ,14-triol hydrochloride
 47
 ნიკოდიკოდინი
 NICODICODINE
@@ -1180,7 +1190,7 @@ BARBITAL
 6
 ბენზფეტამინი
 BENZFETAMINE (benzphetamine)
-N-benzyl-N,α -dimethylphenethylamine
+N -benzyl-N, α -dimethylphenethylamine
 7
 ბრომაზეპამი
 BROMAZEPAM
@@ -1295,7 +1305,7 @@ MEDAZEPAM
 34
 მეზოკარბი
 MESOCARB
-3-(α -methylphenethyl)-N-(phenylcarbamoyl)sydnone imine
+3-( α -methylphenethyl)-N-(phenylcarbamoyl)sydnone imine
 35
 მეთილფენობარბიტალი
 METHYLPHENOBARBITAL
@@ -2567,6 +2577,24 @@ N-ჰიდროქსი მდა, n-ჰიდროქსი- მეთი�
 0,05
 0,5
 5
+201
+ჯვჰ-250 *
+JWH-250
+0,05
+0,5
+5
+202
+ჯვჰ-081 *
+JWH-081
+0,05
+0,5
+5
+203
+ჯვჰ-122 *
+JWH-122
+0,05
+0,5
+5
 ფსიქოტროპული ნივთიერებები
 1
 ალობარბიტალი
@@ -2903,6 +2931,7 @@ N-ჰიდროქსი მდა, n-ჰიდროქსი- მეთი�
 0,25
 2,5
 25
+საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 2 8 .1 2 .2013წ.
 შენიშვნები:
 1. ამ ნუსხის ცხრილის მე-3, მე-4 და მე-5 ვერტიკალურ გრაფებში ნაჩვენები ოდენობები განისაზღვრება შემდეგნაირად:
 ა) მე-3 ვერტიკალურ გრაფაში მითითებულ ოდენობამდე (მითითებული ოდენობის ჩათვლით) ითვლება მცირე ოდენობად, გარდა ნარკოტიკული საშუალებებისა − მეთადონისა და ჰეროინისა:
@@ -2917,4 +2946,5 @@ N-ჰიდროქსი მდა, n-ჰიდროქსი- მეთი�
 3. ფსიქოტროპული ნივთიერების - რელადორმის − ოდენობა განსაზღვრული არ არის, ვინაიდან იგი კომბინირებული პრეპარატია.
 4. ნარკოტიკულ საშუალებათა ოდენობები მოცემულია და განისაზღვრება მათი შემავსებლების (ფქვილი, შაქარი, სახამებელი, სამკურნალო საშუალება და სხვა) გარეშე.
 5. ამ ნუსხით გათვალისწინებულ ფსიქოტროპულ ნივთიერებათა ჩამონათვალს მიეკუთვნება მხოლოდ სუფთა ნივთიერებები (სუბსტანციები) და არა მათი წამლის ფორმები, გარდა ფსიქოტროპული ნივთიერებების - თიანეპტინისა და პრეგაბალინის − წამლის ფორმებისა.
-6. საქართველოში სპეციალურ კონტროლს დაქვემდებარებულ ნივთიერებათა I სიაში შეტანილ ახალ ფსიქოაქტიურ ნივთიერებათა ოდენობები განსაზღვრული არ არის, გარდა ჯვჰ (JWH)-018-ისა, ჯვჰ (JWH)-398-ისა, ჯვჰ (JWH)-073-ისა, ჯვჰ (JWH)-200-ისა, ჰუ (HU)-210-ისა, ცპ (CP)-47, 497-ისა.
+6. საქართველოში სპეციალურ კონტროლს დაქვემდებარებული ნივთიერებების I სიაში შეტანილი ახალი ფსიქოაქტიური ნივთიერებების ოდენობები განსაზღვრული არ არის, გარდა ჯვჰ (JWH)-018-ისა, ჯვჰ (JWH)-398-ისა, ჯვჰ (JWH)-073-ისა, ჯვჰ (JWH)-200-ისა, ჯვჰ (JWH)-250-ისა, ჯვჰ (JWH)-122-ისა, ჯვჰ (JWH)-081-ისა, ჰუ (HU)-210-ისა, ცპ (CP)-47, 497-ისა.
+საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 2 8 .1 2 .2013წ.
