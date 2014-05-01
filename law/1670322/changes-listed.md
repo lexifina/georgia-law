@@ -3,6 +3,7 @@
 2. საქართველოს 2013 წლის 20 სექტემბრის კანონი №1240 - ვებგვერდი, 01.10.2013წ.
 3. საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 28.12.2013წ.
 4. საქართველოს 2014 წლის 5 მარტის კანონი №2043 - ვებგვერდი, 12.03.2014წ.
+5. საქართველოს 2014 წლის 16 აპრილის კანონი №2235 - ვებგვერდი, 28.04.2014წ.
 დანართი №1
 სია I
 ბრუნვისათვის მკაცრად შეზღუდული ნარკოტიკული საშუალებები
@@ -14,48 +15,27 @@
 (+)-LYSERGIDE (LSD, LSD-25)
 9,10-didehydro-N,N-diethyl-6-methylergoline-8 β -carboxamide
 2
-1-ამინოინდანი *
-1-AMINOINDAN
-1H-Inden-1amine, 2,3-dihydro
+(ამოღებულია - 16.04.2014, №2235)
 3
-1-ფეა *
-1-PEA
-1-Phenylethylamine
+(ამოღებულია - 16.04.2014, №2235)
 4
-2-დფმპ *
-2-DPMP
-2-diphenylmethylpiperidine
+(ამოღებულია - 16.04.2014, №2235)
 5
-2- ან 3-ფლუოროამფეტამინი *
-2-or 3-FLUOROAMPHETAMINE
+(ამოღებულია - 16.04.2014, №2235)
 6
-2,4-დმა *
-2,4-DMA
-2,4-dimethoxy-alpha-methylbenzeneethanamine
+(ამოღებულია - 16.04.2014, №2235)
 7
-2,5-დმა *
-2,5-DMA
-2,5- dimethoxy- alpha-methylbenzeneethanamine
+(ამოღებულია - 16.04.2014, №2235)
 8
-2-ამინოინდანი *
-2-AMINOINDAN
-1H-Inden-2-amine, 2,3-dihydro
+(ამოღებულია - 16.04.2014, №2235)
 9
-2-ფეა *
-2-PEA
-2-phenethylamine
+(ამოღებულია - 16.04.2014, №2235)
 10
-2ც-ბ-ფლაი *
-2C-B-FLY
-8-bromo-2,3,6,7-benzo-dihydro-difuran-ethylamine
+(ამოღებულია - 16.04.2014, №2235)
 11
-2ც-პ *
-2C-P
-2,5-dimethoxy-4-(n)-propylphenethylamine
+(ამოღებულია - 16.04.2014, №2235)
 12
-2ც-ტ-4 *
-2C-T-4
-2,5-dimethoxy-4-isopropylthiophenethylamine
+(ამოღებულია - 16.04.2014, №2235)
 13
 3-მეთილთიოფენტანილი
 3-METHYLTHIOFENTANYL
@@ -65,56 +45,33 @@ N-[3-methyl-1-[2-(2-thienyl)ethyl]-4-piperidyl] propionanilide
 3-METHYLFENTANYL
 N-(3-methyl-1-phenethyl-4-piperidyl)propionanilide
 15
-3-ფლუორომეთკათინონი *
-3-FLUOROMETHCATHINONE
+(ამოღებულია - 16.04.2014, №2235)
 16
-3-ფმა *
-3-FMA
-3-fluoromethamphetamine
+(ამოღებულია - 16.04.2014, №2235)
 17
-4-აცო - დიპტ *
-4-ACO-DIPT
-4-acetoxy-N,N-diisopropyltryptamin
+(ამოღებულია - 16.04.2014, №2235)
 18
-4-აცო - დმტ *
-(4-ACO-DMT)
-4-acetoxy-N,N-dimethyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 19
-4-აცო - მეტ *
-4-ACO-MET
-4-acetoxy-N-methyl-N-ethyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 20
-4-მა *
-4-MA
-4-methylamphetamine
+(ამოღებულია - 16.04.2014, №2235)
 21
 4-მეთილამინორექსი
 4-METHYLAMINOREX
 (±)-cis-2-amino-4-methyl-5-phenyl-2-oxazoline
 22
-4-ჰო-დეტ *
-4-HO-DET
-4-hydroxy-N,N- diethyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 23
-4-ჰო-დიპტ *
-4-HO-DIPT
-4-hydroxy-N,N-diisopropyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 24
-4-ჰო-მეტ *
-4-HO-MET
-4-hydroxy-N-methyl-N-ethyltryptamin
+(ამოღებულია - 16.04.2014, №2235)
 25
-5-მეო-ამტ *
-5-MEO-AMT
-5-Methoxy-_-methyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 26
-5-მეო-დალტ *
-5-MEO-DALT
-N,N-diallyl-5-methoxytryptamine
+(ამოღებულია - 16.04.2014, №2235)
 27
-5-მეო-დეტ *
-5-MEO-DET
-5-Methoxy-N,N-diethyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 28
 N-ჰიდროქსი მდა
 N-HYDROXY MDA
@@ -134,7 +91,7 @@ N-[1-[1-methyl-2-(2-thienyl)ethyl]-4-piperidyl] propionanilide
 32
 ალფა - მეთილფენტანილი
 ALPHA-METHYLFENTANYL
-N-[1-( α -methylphenethyl)-4-piperidyl]propionanilide
+N-[1- (α -methylphenethyl)-4-piperidyl]propionanilide
 33
 ალფამეპროდინი
 ALPHAMEPRODINE
@@ -188,47 +145,31 @@ BETACETYLMETHADOL
 45
 ბეტა - ჰიდროქსი -3- მეთილფენტანილი
 BETA-HYDROXY-3-METHYLFENTANYL
-N-[1-( β -hydroxyphenethyl)-3-methyl-4-piperidyl]propionanilide
+N-[1- (β -hydroxyphenethyl)-3-methyl-4-piperidyl]propionanilide
 46
 ბეტა - ჰიდროქსიფენტანილი
 BETA-HYDROXYFENTANYL
-N-[1-( β -hydroxyphenethyl)-4-piperidyl]propionanilide
+N-[1- (β -hydroxyphenethyl)-4-piperidyl]propionanilide
 47
-ბკ-პმმა/მეთედრონი *
-BK-PMMA/METHEDRONE
-4-Methoxymethcathinone
+(ამოღებულია - 16.04.2014, №2235)
 48
-ბკ-მბდბ *
-BK-MBDB
-2-methylamino-1-(3,4-methylenedioxyphenyl)butan-1-one
+(ამოღებულია - 16.04.2014, №2235)
 49
 ბროლამფეტამინი
 BROLAMFETAMINE (DOB)
 (±)-4-bromo-2,5-dimethoxy-α-methylphenethylamine
 50
-ბრომო-დრაგონფლაი *
-BROMO-DRAGONFLY
-Bromo-benzodifuranyl-isoprophylamine
+(ამოღებულია - 16.04.2014, №2235)
 51
-ბუფოტენინი *
-BUFOTENINE
-3-(2-dimethylaminoethyl)-1H-indol-5-ol
+(ამოღებულია - 16.04.2014, №2235)
 52
-გელბისი *
-GELBES
-1-(3-chlorophenyl)-4-(3Chloropropyl)piperazine hydrochloride
+(ამოღებულია - 16.04.2014, №2235)
 53
-გლაუცინი *
-GLAUCINE
-6aS)-1,2,9,10 tetramethoxyaporphine
+(ამოღებულია - 16.04.2014, №2235)
 54
-დ2პმ *
-D2PM
-(S)-(-)-_,_-Diphenyl-2-pyrrolidinylmethanol
+(ამოღებულია - 16.04.2014, №2235)
 55
-დბზპ *
-DBZP
-1, 4-Dibenzylpiperazine
+(ამოღებულია - 16.04.2014, №2235)
 56
 დეზომორფინი
 DESOMORPHINE
@@ -244,9 +185,7 @@ DET
 DIAMPROMIDE
 N-[2-(methylphenethylamino)-propyl]propionanilide
 59
-დიპტ *
-DIPT
-diisopropyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 60
 დიმეფეპტანოლი
 DIMEPHEPTANOL
@@ -279,29 +218,22 @@ DMHP
 DOET
 (±)-4-ethyl-2,5-dimethoxy-α-methylphenethylamine
 67
-დოი *
-DOI
+(ამოღებულია - 16.04.2014, №2235)
 68
-დპია *
-DPIA
-Di-(_-phenylisopropyl)amine
+(ამოღებულია - 16.04.2014, №2235)
 69
 ეკგონინი
 ECGONINE
 its esters and derivatives which are convertible to ecgonine and cocaine
 ეკგონინის რთული ეთერები და მისი წარმოებულები, რომელთა ეკგონინად ან კოკაინად გარდაქმნა შესაძლებელია
 70
-ეთილკათინონი/სუბკოკა I *
-ETHYLCATHINONE/SUBCOCA I
-2-Ethylamino-1-phenylpropan-1-one
+(ამოღებულია - 16.04.2014, №2235)
 71
 ეთილმეთილთიამბუტენი
 ETHYLMETHYLTHIAMBUTENE
 3-ethylmethylamino-1,1-di-(2'-thienyl)-1-butene
 72
-ეტაქუალონი *
-ETAQUALONE
-3-(2-ethylphenyl)-2-methyl-quanazolin-4-one
+(ამოღებულია - 16.04.2014, №2235)
 73
 ეტიციკლიდინი
 ETICYCLIDINE (PCE)
@@ -317,9 +249,7 @@ tetrahydro-7 α -(1-hydroxy-1-methylbutyl)-6,14-endo-ethenooripavine
 (derivative of thebaine)
 (თებაინის წარმოებული)
 76
-ვანოქსერინი *
-VANOXERINE
-1-[2-[bis(4-fluorophenyl)methoxy]ethyl]-4-(3-phenylpropyl)piperazine
+(ამოღებულია - 16.04.2014, №2235)
 77
 ეტრიპტამინი
 ETRYPTAMINE
@@ -333,9 +263,7 @@ N-[1-[2-(2-thienyl)ethyl]-4-piperidyl]propionanilide
 ISOMETHADONE
 6-dimethylamino-5-methyl-4,4-diphenyl-3-hexanone
 80
-კავა*
-KAVA
-Piper methysticum
+(ამოღებულია - 16.04.2014, №2235)
 81
 კათინონი
 CATHINONE
@@ -374,9 +302,7 @@ COCA LEAF
 the leaf of the coca bush (plant material), except a leaf from which all ecgonine, cocaine and any other ecgonine alkaloids have been removed
 კოკას ფოთოლში იგულისხმება კოკას ბუჩქის ფოთოლი, გარდა იმ ფოთლებისა, რომლებიდანაც მთლიანად არის გამოდევნილი ეკგონინი, კოკაინი და ეკგონინის სხვა ნებისმიერი ალკალოიდი
 89
-კრატომი *
-KRATOM
-Mitragynin/7 α -Hydroxy-7H-mitragynin/Paynanthein
+(ამოღებულია - 16.04.2014, №2235)
 90
 ლევომეტორფანი
 LEVOMETHORPHAN
@@ -394,9 +320,7 @@ LEVOPHENACYLMORPHAN
 LYSERGIC ACID
 ((8ß)-9,10-didehydro-6-methylergoline-8-carboxylic acid)
 94
-ლსა *
-LSA
-(8 β )-9,10-didehydro-6-methyl-ergoline-8-carboxamide
+(ამოღებულია - 16.04.2014, №2235)
 95
 მდე , N- ეთილ მდა
 MDE, N-ETHYL MDA
@@ -406,17 +330,11 @@ MDE, N-ETHYL MDA
 MDMA
 (±)-N, α -dimethyl-3,4-(methylenedioxy) phenethylamine
 97
-მდპპფ *
-MDPPP
-3',4'-methylenedioxy- α -pyrrolidinopropiophenone
+(ამოღებულია - 16.04.2014, №2235)
 98
-მდფვ *
-MDPV
-1-(3,4-methylenedioxyphenyl)-2-pyrrolidinyl-pentan-1-one
+(ამოღებულია - 16.04.2014, №2235)
 99
-მდჰოეთ *
-MDHOET
-3,4-methylenedioxy-N-(2-hydroxyethyl)amphetamine
+(ამოღებულია - 16.04.2014, №2235)
 100
 მეთადონის სინთეზის შუალედური პროდუქტი
 METHADONE INTERMEDIATE
@@ -434,17 +352,13 @@ METHYLDIHYDROMORPHINE
 (derivative of morphine)
 (მორფინის წარმოებული)
 103
-მეთილონი *
-METHYLONE
-3,4-methylenedioxymethcathinone
+(ამოღებულია - 16.04.2014, №2235)
 104
 მეთკათინონი (ეფედრონი)
 METHCATHINONE (EPHEDRONE)
 2-(methylamino)-1-phenylpropan-1-one
 105
-მეოპპ *
-MEOPP
-1-(4-methoxyphenyl) -piperazine
+(ამოღებულია - 16.04.2014, №2235)
 106
 მესკალინი
 MESCALINE
@@ -454,9 +368,7 @@ MESCALINE
 METAZOCINE
 2'-hydroxy-2,5,9-trimethyl-6,7-benzomorphan
 108
-მეტამფეპრამონი *
-METAMFEPRAMONE
-N,N-dimethylcathinone
+(ამოღებულია - 16.04.2014, №2235)
 109
 მეტოპონი
 METOPON
@@ -464,13 +376,9 @@ METOPON
 (derivative of morphine)
 (მორფინის წარმოებული)
 110
-მეფედრონი/სუბკოკა II *
-MEPHEDRONE/SUBCOCA II
-2-Methylamino-1-p-tolylpropan-1-one
+(ამოღებულია - 16.04.2014, №2235)
 111
-მიპტ *
-MIPT
-N-Methyl-N-isopropyltryptamine
+(ამოღებულია - 16.04.2014, №2235)
 112
 მიროფინი
 MYROPHINE
@@ -503,24 +411,15 @@ MORPHINE METHOBROMIDE AND OTHER PENTAVALENT NITROGEN MORPHINE DERIVATIVES INCLUD
 MPPP
 1-methyl-4-phenyl-4-piperidinol propionate (ester)
 119
-მქფპ *
-MCPP
-1-(3-chlorophenyl)piperazin)/CPP (chlor-phenyl-piperazine
+(ამოღებულია - 16.04.2014, №2235)
 120
-ნ-აცეტილ-დობ *
-N-ACETYL-DOB
-N-Acetyl-4-bromo-2,5-dimethoxyamphetamine
+(ამოღებულია - 16.04.2014, №2235)
 121
-ნ-დესმეთილსიბუტრამინი *
-N-DESMETHYLSIBUTRAMINE
+(ამოღებულია - 16.04.2014, №2235)
 122
-ნ-ეთილ-2ც-ბ *
-N-ETHYL-2C-B
-N-ethyl- 4-Bromo-2,5-dimethoxybenzeneethanamine
+(ამოღებულია - 16.04.2014, №2235)
 123
-ნმფეა *
-NMPEA
-N methyl Phenylethylamine
+(ამოღებულია - 16.04.2014, №2235)
 124
 ნორაციმეთადოლი
 NORACYMETHADOL
@@ -536,9 +435,7 @@ demethylmorphine
 (derivate of morphine)
 (მორფინის წარმოებული)
 127
-ოდტ *
-ODT
-o-desmethyltramadol
+(ამოღებულია - 16.04.2014, №2235)
 128
 ოპიუმი (ამფიონი)
 OPIUM
@@ -595,9 +492,7 @@ PIMINODINE
 PMA
 p-methoxy-α-methylphenethylamine
 141
-პპფ *
-PPP
-α-pyrrolidinopropiophenone
+(ამოღებულია - 16.04.2014, №2235)
 142
 პროპერიდინი
 PROPERIDINE
@@ -615,21 +510,13 @@ PSILOCINE, PSILOTSIN
 PSILOCYBINE
 3-[2-(dimethylamino)ethyl]indol-4-yl dihydrogen phosphate
 146
-პფბტ *
-PFBT
-3-pseudotropyl-4-fluorobenzoate
+(ამოღებულია - 16.04.2014, №2235)
 147
-პ-ფლუოროამფეტამინი *
-P-FLUORAMPHETAMINE
-1-(4-fluorophenyl)propan-2-amine
+(ამოღებულია - 16.04.2014, №2235)
 148
-პფფპ *
-PFPP
-p-Fluorophenylpiperazine
+(ამოღებულია - 16.04.2014, №2235)
 149
-პქფპ *
-PCPP
-1-4 chloro phenyl piperazine
+(ამოღებულია - 16.04.2014, №2235)
 150
 რაცემეთორფანი
 RACEMETHORPHAN
@@ -643,8 +530,7 @@ RACEMORAMIDE
 ROLICYCLIDINE (PHP, PCPY)
 1-(1-phenylcyclohexyl)pyrrolidine
 153
-სალვია დივინორუმი *
-SALVIA DIVINORUM
+(ამოღებულია - 16.04.2014, №2235)
 154
 სტპ , დომ
 STP, DOM
@@ -662,9 +548,7 @@ TENOCYCLIDINE (TCP)
 tetrahydrocannabinol, the following isomers and their stereochemical variants:
 7,8,9,10-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol; (9R,10aR)-8,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- dibenzo[b,d]pyran-1-ol; (6aR,9R,10aR)-6a,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- dibenzo[b,d]pyran-1-ol; (6aR,10aR)-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- dibenzo[b,d]pyran-1-ol; 6a,7,8,9-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol; (6aR,10aR)-6a,7,8,9,10,10a-hexahydro-6,6-dimethyl-9-methylene3- pentyl-6H-dibenzo[b,d]pyran-1-ol
 158
-ტმა-6 *
-TMA-6
-2,4,6-trimethoxyamphetamine
+(ამოღებულია - 16.04.2014, №2235)
 159
 ტმა
 TMA
@@ -682,53 +566,43 @@ PHENOMORPHAN
 PHENOPERIDINE
 1-(3-hydroxy-3-phenylpropyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester
 163
-ფლეფედრონი *
-FLEPHEDRONE
-p-fluormethcathinone
+(ამოღებულია - 16.04.2014, № 2235)
 164
 ფურეთიდინი
 FURETHIDINE
 1-(2-tetrahydrofurfuryloxyethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester
 165
-ცპ 47,497 *
+ცპ 47,497
 CP 47,497
 5-(1,1-dimethylhexyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol
 166
-ცპ 47,497-ც6 ჰომოლოგი *
-CP 47,497-C6 HOMOLOGUE
-5-(1,1-dimethylhexyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol
+(ამოღებულია - 16.04.2014, №2235)
 167
-ცპ 47,497-ც8 ჰომოლოგი *
-CP 47,497-C8 HOMOLOGUE
-5-(1,1-dimethylhexyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol
+(ამოღებულია - 16.04.2014, №2235)
 168
-ცპ 47,497-ც9 ჰომოლოგი *
-CP 47,497-C9 HOMOLOGUE
-5-(1,1-dimethylhexyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol
+(ამოღებულია - 16.04.2014, №2235)
 169
-ჯვჰ-018 *
+ჯვჰ -018
 JWH-018
 Naphthalen-1-yl-(1-pentylindol-3-yl)methanon
 170
-ჯვჰ-073 *
+ჯვჰ -073
 JWH-073
-1-butyl-3-(1-naphthoyl) indole
+1-butyl-3-(1-naphthoyl)indole
 171
-ჯვჰ-200 *
+ჯვჰ -200
 JWH-200
 1-[2-(4-morpholino)ethyl]-3-(1-naphthoyl)indole
 172
-ჯვჰ-250 *
+ჯვჰ -250
 JWH-250
 1-pentyl-3-(2-methoxyphenylacetyl)indole
 173
-ჯვჰ-398 *
+ჯვჰ -398
 JWH-398
 1-pentyl-3-(4-chloro-1-naphthoyl)indole
 174
-ჰარმინი *
-HARMINE
-7-Methoxy 1-methyl-9H-pyrido[3,4-b]indole
+(ამოღებულია - 16.04.2014, №2235)
 175
 ყაყაჩო დამაძინებელი
 PAPAVER SOMNIFERUM
@@ -758,18 +632,19 @@ diacetylmorphine
 (derivative of morphine)
 (მორფინის წარმოებული)
 182
-ჰუ-210 *
+ჰუ -210
 HU-210
 1,1-dimethylheptyl-11-hydroxytetrahydrocannabinol
 183
-ჯვჰ-081 *
+ჯვჰ -081
 JWH-081
-4-methoxynaphthalen- 1-yl- (1-pentylindol- 3-yl)methanone
+4-methoxynaphthalen-1-yl-(1-pentylindol-3-yl) methanone
 184
-ჯვჰ-122 *
+ჯვჰ -122
 JWH-122
-4- methyl- 1- naphthalenyl)(1- pentyl- 1H- indol- 3- yl)- methanone
+4-methyl-1-naphthalenyl)(1-pentyl-1H-indol-3-yl)-methanone
 საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 28.12.2013წ.
+საქართველოს 2014 წლის 16 აპრილ ის კანონი №2235 - ვებგვერდი, 28.04.2014წ.
 შენიშვნები:
 1. I სიას მიეკუთვნება აგრეთვე:
 ა) მასში შეტანილ ნივთიერებათა იზომერები, თუ ასეთი იზომერების არსებობა შესაძლებელია მოცემული კონკრეტული ქიმიური აღნიშვნის ფარგლებში, გარდა იმ შემთხვევისა, როდესაც რომელიმე ნივთიერების იზომერი სპეციალურად არის ამოღებული ამ სიიდან;
@@ -779,7 +654,8 @@ JWH-122
 ე) მასში შეტანილ ნივთიერებათა ეტალონური სტანდარტული ნიმუშები;
 ვ) ნარევი.
 2. I სიას არ მიეკუთვნება ლევომეტორფანის და ლევორფანოლის იზომერები, შესაბამისად, დექსტრომეტორფანი [(+)-3-methyl-N-methylmorphinan] და დექსტრორფანი [(+)-3-hydroxy-N-methylmorphinan], რომლებიც სპეციალურად არის ამოღებული ამ სიიდან.
-3. ვარსკვლავით (* ) აღნიშნულია ახალი ფსიქოაქტიური სუბსტანცია.
+3. (ამოღებულია - 16.04.2014, №2235).
+საქართველოს 2014 წლის 16 აპრილ ის კანონი №2235 - ვებგვერდი, 28.04.2014წ.
 სია II
 ბრუნვისათვის შეზღუდული ნარკოტიკული საშუალებები
 №
@@ -911,7 +787,7 @@ ETOXERIDINE
 29
 ზიპეპროლი
 ZIPEPROL
-α -( α -methoxybenzyl)-4-( β -methoxyphenethyl)-1-piperazineethanol
+α - (α -methoxybenzyl)-4- (β -methoxyphenethyl)-1-piperazineethanol
 30
 თებაინი
 THEBAINE
@@ -940,7 +816,7 @@ CODEINE
 COCAINE
 methyl ester of benzoylecgonine
 (an alkaloid found in coca leaves or prepared by synthesis from ecgonine)
-(ალკალოიდი, რომელსაც შეიცავს კოკას ფოთლები ან რომელიც მიიღება სინთეზური გზით ეკგონინიდან )
+(ალკალოიდი, რომელსაც შეიცავს კოკას ფოთლები ან რომელიც მიიღება სინთეზური გზით ეკგონინიდან)
 36
 ლევამფეტამინი
 LEVAMFETAMINE (levamphetamine)
@@ -1146,10 +1022,10 @@ dihydromorphinone
 ჰიდროქსიპეთიდინი
 HYDROXYPETHIDINE
 4-m-hydroxyphenyl-1-methylpiperidine-4-carboxylic acid ethyl ester
-შენიშვნები : II სიას მიეკუთვნება:
-ა) მასში შეტანილ ნივთიერებათა იზომერები, თუ ასეთი იზომერების არსებობა შესაძლებელია მოცემული კონკრეტული ქიმიური აღნიშვნის ფარგლებში, გარდა იმ შემთხვევისა, როდესაც რომელიმე ნივთიერების იზომერი სპეციალურად არის ამოღებული ამ სიიდან;
-ბ) მასში შეტანილ ნივთიერებათა მარტივი და რთული ეთერები, თუ ასეთი ეთერების არსებობა შესაძლებელია;
-გ) მასში შეტანილ ნივთიერებათა იზომერებისა და მარტივი და რთული ეთერების მარილები, თუ ამგვარი მარილების არსებობა შესაძლებელია;
+შენიშვნ ები : II სიას მიეკუთვნება:
+ა) მასში შეტანილ ნივთიერებ ათა იზომერები, თუ ასეთი იზომერების არსებობა შესაძლებელია მოცემული კონკრეტული ქიმიური აღნიშვნის ფარგლებში, გარდა იმ შემთხვევისა, როდესაც რომელიმე ნივთიერების იზომერი სპეციალურად არის ამოღებული ამ სიიდან;
+ბ) მასში შეტანილ ნივთიერებ ათა მარტივი და რთული ეთერები, თუ ასეთი ეთერების არსებობა შესაძლებელია;
+გ) მასში შეტანილ ნივთიერებათა იზომერების ა და მარტივი და რთული ეთერების მარილები, თუ ამგვარი მარილების არსებობა შესაძლებელია;
 დ) მასში შეტანილ ნივთიერებათა და მათი მარილების წამლის ფორმები (საქართველოში რეგისტრირებული ან არარეგისტრირებული) ნებისმიერი სავაჭრო დასახელებით, თუ ამგვარი წამლის ფორმების არსებობა შესაძლებელია;
 ე) შემდეგი ნარკოტიკული საშუალებების პრეპარატები:
 ე.ა) აცეტილდიჰიდროკოდეინის, დიჰიდროკოდეინის, კოდეინის, ნიკოდიკოდინის, ნიკოკოდინის, ნორკოდეინის, ფოლკოდინისა და ეთილმორფინის შემცველი ყველა კომბინირებული პრეპარატი;
@@ -1311,7 +1187,7 @@ MEDAZEPAM
 34
 მეზოკარბი
 MESOCARB
-3-( α -methylphenethyl)-N-(phenylcarbamoyl)sydnone imine
+3- (α -methylphenethyl)-N-(phenylcarbamoyl)sydnone imine
 35
 მეთილფენობარბიტალი
 METHYLPHENOBARBITAL
@@ -1482,7 +1358,7 @@ ERGOMETRINE
 5
 ერგოტამინი
 ERGOTAMINE
-(ergotaman-3',6',18'-trione,12'-hydroxy-2'-methyl-5'-(phenylmethyl)-,(5 ))
+(ergotaman-3',6',18'-trione,12'-hydroxy-2'-methyl-5'-(phenylmethyl)-,(5))
 6
 (ამოღებულია - 05.03.2014, №2043)
 7
@@ -1514,7 +1390,7 @@ PHENYLACETIC ACID
 ACETIC ANHYDRIDE
 (acetic oxide)
 საქართველოს 2014 წლის 5 მარტის კანონი №2043 - ვებგვერდი, 12.03.2014წ.
-შენიშვნ ები: IV სიის №1 ცხრილს მიეკუთვნება:
+შენიშვნ ები : IV სიის № 1 ცხრილს მიეკუთვნება:
 ა) მასში შეტანილ ნივთიერებათა მარილები, თუ ამგვარი მარილების არსებობა შესაძლებელია;
 ბ) მასში შეტანილ ნივთიერებათა და მათი მარილების წამლის ფორმები (საქართველოში რეგისტრირებული ან არარეგისტრირებული) ნებისმიერი სავაჭრო დასახელებით, თუ ამგვარი წამლის ფორმების არსებობა შესაძლებელია;
 გ) მასში შეტანილ ნივთიერებათა ეტალონური სტანდარტული ნიმუშები.
@@ -2589,19 +2465,19 @@ N-ჰიდროქსი მდა, n-ჰიდროქსი- მეთი�
 0,5
 5
 201
-ჯვჰ-250 *
+ჯვჰ-250
 JWH-250
 0,05
 0,5
 5
 202
-ჯვჰ-081 *
+ჯვჰ-081
 JWH-081
 0,05
 0,5
 5
 203
-ჯვჰ-122 *
+ჯვჰ-122
 JWH-122
 0,05
 0,5
@@ -2959,6 +2835,7 @@ JWH-122
 25
 საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 2 8 .1 2 .2013წ.
 საქართველოს 2014 წლის 5 მარტის კანონი №2043 - ვებგვერდი, 12.03.2014წ.
+საქართველოს 2014 წლის 16 აპრილ ის კანონი №2235 - ვებგვერდი, 28.04.2014წ.
 შენიშვნები:
 1. ამ ნუსხის ცხრილის მე-3, მე-4 და მე-5 ვერტიკალურ გრაფებში ნაჩვენები ოდენობები განისაზღვრება შემდეგნაირად:
 ა) მე-3 ვერტიკალურ გრაფაში მითითებულ ოდენობამდე (მითითებული ოდენობის ჩათვლით) ითვლება მცირე ოდენობად, გარდა ნარკოტიკული საშუალებებისა − მეთადონისა და ჰეროინისა:
@@ -2973,5 +2850,6 @@ JWH-122
 3. ფსიქოტროპული ნივთიერების - რელადორმის − ოდენობა განსაზღვრული არ არის, ვინაიდან იგი კომბინირებული პრეპარატია.
 4. ნარკოტიკულ საშუალებათა ოდენობები მოცემულია და განისაზღვრება მათი შემავსებლების (ფქვილი, შაქარი, სახამებელი, სამკურნალო საშუალება და სხვა) გარეშე.
 5. ამ ნუსხით გათვალისწინებულ ფსიქოტროპულ ნივთიერებათა ჩამონათვალს მიეკუთვნება მხოლოდ სუფთა ნივთიერებები (სუბსტანციები) და არა მათი წამლის ფორმები, გარდა ფსიქოტროპული ნივთიერებების - თიანეპტინისა და პრეგაბალინის − წამლის ფორმებისა.
-6. საქართველოში სპეციალურ კონტროლს დაქვემდებარებული ნივთიერებების I სიაში შეტანილი ახალი ფსიქოაქტიური ნივთიერებების ოდენობები განსაზღვრული არ არის, გარდა ჯვჰ (JWH)-018-ისა, ჯვჰ (JWH)-398-ისა, ჯვჰ (JWH)-073-ისა, ჯვჰ (JWH)-200-ისა, ჯვჰ (JWH)-250-ისა, ჯვჰ (JWH)-122-ისა, ჯვჰ (JWH)-081-ისა, ჰუ (HU)-210-ისა, ცპ (CP)-47, 497-ისა.
+6. (ამოღებულია - 16.04.2014, №2235).
 საქართველოს 2013 წლის 25 დეკემბრის კანონი №1866 - ვებგვერდი, 2 8 .1 2 .2013წ.
+საქართველოს 2014 წლის 16 აპრილ ის კანონი №2235 - ვებგვერდი, 28.04.2014წ.
