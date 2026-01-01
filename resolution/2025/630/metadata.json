@@ -1,0 +1,52 @@
+{
+  "matsne_id": 6744209,
+  "title": "დასაქმების ხელშეწყობის 2026 წლის სახელმწიფო პროგრამის დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6744209?publication=0",
+  "source_sha256": "e92d72e05694e7d709bd449b4ee7115db2ef65eae369097766c7ad434e9fabf3",
+  "status": "active",
+  "number": "630",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2025-12-30",
+  "published": "2025-12-31",
+  "in_force": {
+    "date": "2026-01-01",
+    "basis": "date in the act",
+    "words": "დადგენილება ამოქმედდეს 2026 წლის 1 იანვრიდან.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 7000514,
+      "title": "„დასაქმების ხელშეწყობის 2026 წლის სახელმწიფო პროგრამის დამტკიცების შესახებ“ საქართველოს მთავრობის 2025 წლის 30 დეკემბრის №630 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "2. 15/09/2026 - საქართველოს მთავრობის დადგენილება - 445 - ვებგვერდი, 16/09/2026",
+      "n": 2,
+      "adopted": "2026-09-15",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "445",
+      "source": "ვებგვერდი, 16/09/2026",
+      "published": "2026-09-16",
+      "transitional": false
+    },
+    {
+      "act_id": 6817700,
+      "title": "„დასაქმების ხელშეწყობის 2026 წლის სახელმწიფო პროგრამის დამტკიცების შესახებ“ საქართველოს მთავრობის 2025 წლის 30 დეკემბრის №630 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 19/03/2026 - საქართველოს მთავრობის დადგენილება - 117 - ვებგვერდი, 20/03/2026",
+      "n": 1,
+      "adopted": "2026-03-19",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "117",
+      "source": "ვებგვერდი, 20/03/2026",
+      "published": "2026-03-20",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
