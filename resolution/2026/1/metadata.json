@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6775980,
+  "title": "აფხაზეთის ავტონომიური რესპუბლიკის ოკუპირებული ტერიტორიიდან (ზემო აფხაზეთი) იძულებით გადაადგილებულ პირთა – დევნილთა სოციალური დაცვის მიზნით ერთჯერადი დახმარების გაცემის წესის დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6775980?publication=0",
+  "source_sha256": "2277c5a567cf3b525da0800b4974dc3df79aa668a88668f185c92f67c3fc878a",
+  "status": "expired",
+  "number": "1",
+  "issuer": "აფხაზეთის ავტონომიური რესპუბლიკის მთავრობა",
+  "adopted": "2026-01-30",
+  "published": "2026-02-04",
+  "in_force": {
+    "date": "2026-02-04",
+    "basis": "on publication",
+    "words": "5. დადგენილება ამოქმედდეს გამოქვეყნებისთანავე.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 6823505,
+      "title": "აფხაზეთის ავტონომიური რესპუბლიკის მთავრობის ზოგიერთი დადგენილების ძალადაკარგულად გამოცხადების შესახებ",
+      "raw": "1. 26/03/2026 - ავტონომიური რესპუბლიკის მთავრობის დადგენილება - 8 - ვებგვერდი, 31/03/2026",
+      "n": 1,
+      "adopted": "2026-03-26",
+      "type": "ავტონომიური რესპუბლიკის მთავრობის დადგენილება",
+      "number": "8",
+      "source": "ვებგვერდი, 31/03/2026",
+      "published": "2026-03-31",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
