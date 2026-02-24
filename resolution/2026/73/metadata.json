@@ -1,0 +1,42 @@
+{
+  "matsne_id": 6792120,
+  "title": "საჯარო სამართლის იურიდიული პირის − საქართველოს სასახლე-მუზეუმების გაერთიანების დაფუძნებისა და ამ მიზნით რიგ ღონისძიებათა განხორციელების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6792120?publication=0",
+  "source_sha256": "a8d806147666956249d3290e9752f135a7bf6486b8ec5a30fe0951b9ba447382",
+  "status": "active",
+  "number": "73",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-02-23",
+  "published": "2026-02-24",
+  "in_force": {
+    "date": "2026-02-24",
+    "basis": "published (no in-force article found)",
+    "words": "",
+    "parts": [
+      {
+        "main": false,
+        "except": true,
+        "date": "2026-02-24",
+        "basis": "on publication",
+        "words": "1. დადგენილება, გარდა ამ დადგენილების პირველი მუხლის, მე-2 მუხლის მე-2 პუნქტის, მე-3 და მე-5 მუხლებისა, ამოქმედდეს გამოქვეყნებისთანავე."
+      },
+      {
+        "main": false,
+        "except": false,
+        "date": "2026-03-01",
+        "basis": "date in the act",
+        "words": "2. ამ დადგენილების პირველი მუხლი, მე-2 მუხლის მე-2 პუნქტი, მე-3 და მე-5 მუხლები ამოქმედდეს 2026 წლის 1 მარტიდან."
+      }
+    ]
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
