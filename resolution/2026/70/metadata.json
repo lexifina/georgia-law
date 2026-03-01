@@ -1,0 +1,37 @@
+{
+  "matsne_id": 6791218,
+  "title": null,
+  "source": "https://matsne.gov.ge/ka/document/view/6791218?publication=0",
+  "source_sha256": "420978e546e0c2a3edc9813e8e1f45c39a466ebcafbacaec2571c4b894474117",
+  "status": "active",
+  "number": "70",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-02-20",
+  "published": "2026-02-20",
+  "in_force": {
+    "date": "2026-03-01",
+    "basis": "date in the act",
+    "words": "დადგენილება ამოქმედდეს 2026 წლის 1 მარტიდან.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 6940189
+    },
+    {
+      "act_id": 6813582
+    },
+    {
+      "act_id": 6796896
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": true,
+  "note": "individual-person decision: metadata and official link only"
+}
