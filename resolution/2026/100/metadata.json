@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6808331,
+  "title": "საქართველოს ფინანსთა სამინისტროს საგამოძიებო სამსახურის თანამშრომელთა სამსახურებრივი ფორმის სახისა და ატრიბუტიკის დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6808331?publication=0",
+  "source_sha256": "865b74a128e9381b24db3864c042afd3d547b8d21c868d915a7a24721331c9fc",
+  "status": "active",
+  "number": "100",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-03-06",
+  "published": "2026-03-10",
+  "in_force": {
+    "date": "2026-03-10",
+    "basis": "on publication",
+    "words": "დადგენილება ამოქმედდეს გამოქვეყნებისთანავე.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 6933957,
+      "title": "„საქართველოს ფინანსთა სამინისტროს საგამოძიებო სამსახურის თანამშრომელთა სამსახურებრივი ფორმის სახისა და ატრიბუტიკის დამტკიცების შესახებ“ საქართველოს მთავრობის 2026 წლის 6 მარტის №100 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 06/07/2026 - საქართველოს მთავრობის დადგენილება - 313 - ვებგვერდი, 07/07/2026",
+      "n": 1,
+      "adopted": "2026-07-06",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "313",
+      "source": "ვებგვერდი, 07/07/2026",
+      "published": "2026-07-07",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
