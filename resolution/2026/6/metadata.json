@@ -1,0 +1,42 @@
+{
+  "matsne_id": 6812074,
+  "title": "საჯარო სამართლის იურიდიული პირის ,,კულტურის, სპორტის და ახალგაზრდულ საქმეთა სააგენტოს“ ლიკვიდაციის შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6812074?publication=0",
+  "source_sha256": "b3de6f2862c0182efd1baf7807bfb6cf661a60579c2a34e8bd6df61e12975061",
+  "status": "active",
+  "number": "6",
+  "issuer": "აფხაზეთის ავტონომიური რესპუბლიკის მთავრობა",
+  "adopted": "2026-03-11",
+  "published": "2026-03-13",
+  "in_force": {
+    "date": "2026-03-13",
+    "basis": "published (no in-force article found)",
+    "words": "",
+    "parts": [
+      {
+        "main": false,
+        "except": true,
+        "date": "2026-03-13",
+        "basis": "on publication",
+        "words": "1. დადგენილება, გარდა პირველი და მეორე მუხლებისა, ამოქმედდეს გამოქვეყნებისთანავე."
+      },
+      {
+        "main": false,
+        "except": false,
+        "date": "2026-04-15",
+        "basis": "date in the act",
+        "words": "2. დადგენილების პირველი და მეორე მუხლები ამოქმედდეს 2026 წლის 15 აპრილიდან."
+      }
+    ]
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
