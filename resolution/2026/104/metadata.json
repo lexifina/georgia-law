@@ -1,0 +1,42 @@
+{
+  "matsne_id": 6811677,
+  "title": null,
+  "source": "https://matsne.gov.ge/ka/document/view/6811677?publication=0",
+  "source_sha256": "e4eb15ace67c274b78dc7cda535c6f71e12de5a910b6781d0e7196e50bfb112a",
+  "status": "active",
+  "number": "104",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-03-12",
+  "published": "2026-03-16",
+  "in_force": {
+    "date": "2026-03-16",
+    "basis": "published (no in-force article found)",
+    "words": "",
+    "parts": [
+      {
+        "main": false,
+        "except": true,
+        "date": "2026-07-01",
+        "basis": "date in the act",
+        "words": "1. დადგენილება, გარდა დადგენილების მე-2 მუხლის პირველი პუნქტისა, ამოქმედდეს 2026 წლის 1 ივლისიდან."
+      },
+      {
+        "main": false,
+        "except": false,
+        "date": "2026-03-16",
+        "basis": "on publication",
+        "words": "2. დადგენილების მე-2 მუხლის პირველი პუნქტი ამოქმედდეს გამოქვეყნებისთანავე."
+      }
+    ]
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": true,
+  "note": "individual-person decision: metadata and official link only"
+}
