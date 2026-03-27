@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6822960,
+  "title": "საერთაშორისო გამოფენებში საქართველოს მონაწილეობის საკოორდინაციო უწყებათაშორისი კომისიის შექმნისა და მისი დებულების დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6822960?publication=0",
+  "source_sha256": "92abf862d7b7d2927504386133aa29398fc708921090258b6b8cce4e382aaff3",
+  "status": "active",
+  "number": "126",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-03-27",
+  "published": "2026-03-27",
+  "in_force": {
+    "date": "2026-03-27",
+    "basis": "on publication",
+    "words": "დადგენილება ამოქმედდეს გამოქვეყნებისთანავე.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 7036958,
+      "title": "„საერთაშორისო გამოფენებში საქართველოს მონაწილეობის საკოორდინაციო უწყებათაშორისი კომისიის შექმნისა და მისი დებულების დამტკიცების შესახებ“ საქართველოს მთავრობის 2026 წლის 27 მარტის №126 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 02/11/2026 - საქართველოს მთავრობის დადგენილება - 514 - ვებგვერდი, 03/11/2026",
+      "n": 1,
+      "adopted": "2026-11-02",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "514",
+      "source": "ვებგვერდი, 03/11/2026",
+      "published": "2026-11-03",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
