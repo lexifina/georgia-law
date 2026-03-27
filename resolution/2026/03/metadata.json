@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6800804,
+  "title": "საჯარო სამართლის იურიდიული პირის – საქართველოს საპენსიო ფონდის დებულების დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6800804?publication=0",
+  "source_sha256": "f3fe622c2159f7468dd46c723c7e0ba59eec4c44756b7f1a2dc17fb54bf51f39",
+  "status": "active",
+  "number": "03",
+  "issuer": "სსიპ – საქართველოს საპენსიო ფონდის მმართველობითი საბჭოს თავმჯდომარე",
+  "adopted": "2026-03-26",
+  "published": "2026-03-27",
+  "in_force": {
+    "date": "2026-03-27",
+    "basis": "on publication",
+    "words": "დადგენილება ამოქმედდეს გამოქვეყნებისთანავე.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 6925948,
+      "title": "„საჯარო სამართლის იურიდიული პირის − საქართველოს საპენსიო ფონდის დებულების დამტკიცების შესახებ“ საჯარო სამართლის იურიდიული პირის - საქართველოს საპენსიო ფონდის 2026 წლის 26 მარტის №03 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 01/07/2026 - სსიპ – საქართველოს საპენსიო ფონდის მმართველობითი საბჭოს თავმჯდომარის დადგენილება - 07 - ვებგვერდი, 02/07/2026 - ცვლილება შეიცავს გარდამავალ დებულებას",
+      "n": 1,
+      "adopted": "2026-07-01",
+      "type": "სსიპ – საქართველოს საპენსიო ფონდის მმართველობითი საბჭოს თავმჯდომარის დადგენილება",
+      "number": "07",
+      "source": "ვებგვერდი, 02/07/2026",
+      "published": "2026-07-02",
+      "transitional": true
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
