@@ -1,0 +1,27 @@
+{
+  "matsne_id": 6823582,
+  "title": null,
+  "source": "https://matsne.gov.ge/ka/document/view/6823582?publication=0",
+  "source_sha256": "fc0191ec687ac6606b7754429347fd6adce330e1850f2765159c65007bf27c89",
+  "status": "active",
+  "number": "11",
+  "issuer": "აფხაზეთის ავტონომიური რესპუბლიკის მთავრობა",
+  "adopted": "2026-03-26",
+  "published": "2026-03-31",
+  "in_force": {
+    "date": "2026-03-31",
+    "basis": "on publication",
+    "words": "დადგენილება ამოქმედდეს გამოქვეყნებისთანავე.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": true,
+  "note": "individual-person decision: metadata and official link only"
+}
