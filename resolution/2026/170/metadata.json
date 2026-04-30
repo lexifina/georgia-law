@@ -1,0 +1,42 @@
+{
+  "matsne_id": 6850322,
+  "title": "საჯარო სამართლის იურიდიული პირის – სახელმწიფო შესყიდვების სააგენტოს რეორგანიზაციისა და საჯარო სამართლის იურიდიული პირის – სახელმწიფო შესყიდვების სააგენტოს დებულებისა და სტრუქტურის დამტკიცების თაობაზე",
+  "source": "https://matsne.gov.ge/ka/document/view/6850322?publication=0",
+  "source_sha256": "1847f904b1672d54d3551f4ec47f86eb0cce3e2767ed69163103ac08d9c3e4ff",
+  "status": "active",
+  "number": "170",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-04-28",
+  "published": "2026-04-30",
+  "in_force": {
+    "date": "2026-04-30",
+    "basis": "published (no in-force article found)",
+    "words": "",
+    "parts": [
+      {
+        "main": false,
+        "except": true,
+        "date": "2026-04-30",
+        "basis": "on publication",
+        "words": "1. დადგენილება, გარდა პირველი მუხლის მე-4 პუნქტისა და მე-2 მუხლისა, ამოქმედდეს გამოქვეყნებისთანავე."
+      },
+      {
+        "main": false,
+        "except": false,
+        "date": "2026-06-01",
+        "basis": "date in the act",
+        "words": "2. ამ დადგენილების პირველი მუხლის მე-4 პუნქტი და მე-2 მუხლი ამოქმედდეს 2026 წლის 1 ივნისიდან."
+      }
+    ]
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
