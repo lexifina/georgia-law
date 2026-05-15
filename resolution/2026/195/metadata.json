@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6863628,
+  "title": "„ქვეყნის ქალაქებისა და კურორტების განვითარების“ პროგრამის ფარგლებში მიმდინარე ინფრასტრუქტურული პროექტ(ებ)ის განხორციელების ხელშემწყობი უწყებათაშორისი კომისიის შექმნისა და დებულების დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6863628?publication=0",
+  "source_sha256": "83b4867e536e99419ae9d8bc2a1a3d89fcef7214000655155d6551140699dec2",
+  "status": "active",
+  "number": "195",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-05-14",
+  "published": "2026-05-15",
+  "in_force": {
+    "date": "2026-05-15",
+    "basis": "on publication",
+    "words": "დადგენილება ამოქმედდეს გამოქვეყნებისთანავე.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 6867836,
+      "title": "„ქვეყნის ქალაქებისა და კურორტების განვითარების“ პროგრამის ფარგლებში მიმდინარე ინფრასტრუქტურული პროექტ(ებ)ის განხორციელების ხელშემწყობი უწყებათაშორისი კომისიის შექმნისა და დებულების დამტკიცების შესახებ“ საქართველოს მთავრობის 2026 წლის 14 მაისის №195 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 20/05/2026 - საქართველოს მთავრობის დადგენილება - 210 - ვებგვერდი, 22/05/2026",
+      "n": 1,
+      "adopted": "2026-05-20",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "210",
+      "source": "ვებგვერდი, 22/05/2026",
+      "published": "2026-05-22",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
