@@ -1,0 +1,42 @@
+{
+  "matsne_id": 6867349,
+  "title": "საქართველოს კულტურის სამინისტროს მმართველობის სფეროში მოქმედი საჯარო სამართლის იურიდიული პირის − მწერალთა სახლისა და სხვა ზოგიერთი საჯარო სამართლის იურიდიული პირის რეორგანიზაციისა და ამ მიზნით რიგ ღონისძიებათა განხორციელების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6867349?publication=0",
+  "source_sha256": "caa067a18f039a3aaa4ceee7828914dbe36a78464f6ec41b779dce55ed6f4ba9",
+  "status": "active",
+  "number": "206",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-05-20",
+  "published": "2026-05-21",
+  "in_force": {
+    "date": "2026-05-21",
+    "basis": "published (no in-force article found)",
+    "words": "",
+    "parts": [
+      {
+        "main": false,
+        "except": true,
+        "date": "2026-05-21",
+        "basis": "on publication",
+        "words": "1. დადგენილება, გარდა ამავე დადგენილების პირველი მუხლის, მე-2 მუხლის მე-3 პუნქტისა და მე-3 მუხლისა, ამოქმედდეს გამოქვეყნებისთანავე."
+      },
+      {
+        "main": false,
+        "except": false,
+        "date": "2026-05-25",
+        "basis": "date in the act",
+        "words": "2. დადგენილების პირველი მუხლი, მე-2 მუხლის მე-3 პუნქტი და მე-3 მუხლი ამოქმედდეს 2026 წლის 25 მაისიდან."
+      }
+    ]
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
