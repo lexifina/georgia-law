@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6870859,
+  "title": "საქართველოს ზოგადსაგანმანათლებლო დაწესებულებ(ებ)ის ინფრასტრუქტურული პროექტ(ებ)ის განხორციელებასთან დაკავშირებული საკითხების განმხილველი სამთავრობო კომისიის შექმნისა და დებულების დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6870859?publication=0",
+  "source_sha256": "63e0530e2ed7d6ebb3d66fbadaf3b8b874787bca8d44f4d4da156ade1243ac34",
+  "status": "active",
+  "number": "224",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-05-25",
+  "published": "2026-05-27",
+  "in_force": {
+    "date": "2026-05-27",
+    "basis": "on publication",
+    "words": "დადგენილება ამოქმედდეს გამოქვეყნებისთანავე.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 7028164,
+      "title": "„საქართველოს ზოგადსაგანმანათლებლო დაწესებულებ(ებ)ის ინფრასტრუქტურული პროექტ(ებ)ის განხორციელებასთან დაკავშირებული საკითხების განმხილველი სამთავრობო კომისიის შექმნისა და დებულების დამტკიცების შესახებ“ საქართველოს მთავრობის 2026 წლის 25 მაისის №224 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 22/10/2026 - საქართველოს მთავრობის დადგენილება - 503 - ვებგვერდი, 23/10/2026",
+      "n": 1,
+      "adopted": "2026-10-22",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "503",
+      "source": "ვებგვერდი, 23/10/2026",
+      "published": "2026-10-23",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
