@@ -1,0 +1,48 @@
+{
+  "matsne_id": 6878099,
+  "title": "ცენტრალიზებული შესყიდვის განხორციელების წესისა და პირობების დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6878099?publication=0",
+  "source_sha256": "976f2456070114894546ff9fe58515b27f8209e6adefa82ef39d559b7cd56280",
+  "status": "active",
+  "number": "239",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-05-29",
+  "published": "2026-05-29",
+  "in_force": {
+    "date": "2026-06-01",
+    "basis": "date in the act",
+    "words": "დადგენილება ამოქმედდეს 2026 წლის 1 ივნისიდან.",
+    "parts": [
+      {
+        "main": false,
+        "except": false,
+        "date": "2026-05-29",
+        "basis": "on publication",
+        "words": "5. ამ მუხლის პირველი პუნქტით გათვალისწინებული გადაწყვეტილება ძალაში შედის სააგენტოს ვებგვერდზე www.procurement.gov.ge გამოქვეყნებისთანავე."
+      }
+    ]
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 6997324,
+      "title": "„ცენტრალიზებული შესყიდვის განხორციელების წესისა და პირობების დამტკიცების შესახებ“ საქართველოს მთავრობის 2026 წლის 29 მაისის №239 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 08/09/2026 - საქართველოს მთავრობის დადგენილება - 433 - ვებგვერდი, 09/09/2026 - ცვლილება შეიცავს გარდამავალ დებულებას",
+      "n": 1,
+      "adopted": "2026-09-08",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "433",
+      "source": "ვებგვერდი, 09/09/2026",
+      "published": "2026-09-09",
+      "transitional": true
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 2,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 2,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
