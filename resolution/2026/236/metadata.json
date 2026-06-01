@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6878066,
+  "title": "საჯარო სამართლის იურიდიული პირის – ცენტრალური შემსყიდველი ორგანოს დებულებისა და სტრუქტურის დამტკიცების თაობაზე",
+  "source": "https://matsne.gov.ge/ka/document/view/6878066?publication=0",
+  "source_sha256": "81dca7a151710ab18d38e83c71b52f91bd3c293d993790701476a0132e168145",
+  "status": "active",
+  "number": "236",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-05-29",
+  "published": "2026-05-29",
+  "in_force": {
+    "date": "2026-06-01",
+    "basis": "date in the act",
+    "words": "დადგენილება ამოქმედდეს 2026 წლის 1 ივნისიდან.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 7040631,
+      "title": "„საჯარო სამართლის იურიდიული პირის – ცენტრალური შემსყიდველი ორგანოს დებულებისა და სტრუქტურის დამტკიცების თაობაზე“ საქართველოს მთავრობის 2026 წლის 29 მაისის №236 დადგენილებაში ცვლილების შეტანის შესახებ",
+      "raw": "1. 06/11/2026 - საქართველოს მთავრობის დადგენილება - 523 - ვებგვერდი, 09/11/2026",
+      "n": 1,
+      "adopted": "2026-11-06",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "523",
+      "source": "ვებგვერდი, 09/11/2026",
+      "published": "2026-11-09",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
