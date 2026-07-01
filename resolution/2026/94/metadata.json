@@ -1,0 +1,40 @@
+{
+  "matsne_id": 6800538,
+  "title": "ჰიპერპოპულაციის მართვის მიზნით ძაღლების მოშენებაზე მორატორიუმის შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6800538?publication=0",
+  "source_sha256": "bd9cdb78d394be3fd9321569f2a12824cb40e3e790e495663c749f75a073a4da",
+  "status": "active",
+  "number": "94",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-02-27",
+  "published": "2026-03-02",
+  "in_force": {
+    "date": "2026-07-01",
+    "basis": "date in the act",
+    "words": "დადგენილება ამოქმედდეს 2026 წლის 1 ივლისიდან.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 6979354,
+      "title": "„ჰიპერპოპულაციის მართვის მიზნით ძაღლების მოშენებაზე მორატორიუმის შესახებ“ საქართველოს მთავრობის 2026 წლის 27 თებერვლის №94 დადგენილებაში ცვლილების  შეტანის თაობაზე",
+      "raw": "1. 17/08/2026 - საქართველოს მთავრობის დადგენილება - 395 - ვებგვერდი, 19/08/2026",
+      "n": 1,
+      "adopted": "2026-08-17",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "395",
+      "source": "ვებგვერდი, 19/08/2026",
+      "published": "2026-08-19",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
