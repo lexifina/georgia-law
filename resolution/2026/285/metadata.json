@@ -1,0 +1,52 @@
+{
+  "matsne_id": 6906141,
+  "title": "აგროთანადაფინანსების სახელმწიფო პროგრამის დამტკიცების შესახებ",
+  "source": "https://matsne.gov.ge/ka/document/view/6906141?publication=0",
+  "source_sha256": "6b325b36bb0ce8134d8accad05450dca3f061421940e478ff5be8f486cfe07d5",
+  "status": "active",
+  "number": "285",
+  "issuer": "საქართველოს მთავრობა",
+  "adopted": "2026-06-24",
+  "published": "2026-06-26",
+  "in_force": {
+    "date": "2026-07-01",
+    "basis": "date in the act",
+    "words": "დადგენილება ამოქმედდეს 2026 წლის 1 ივლისიდან.",
+    "parts": []
+  },
+  "history_type": "as-enacted",
+  "consolidated": false,
+  "amending_acts": [
+    {
+      "act_id": 7037114,
+      "title": "„აგროთანადაფინანსების სახელმწიფო პროგრამის დამტკიცების შესახებ“ საქართველოს მთავრობის 2026 წლის 24 ივნისის №285 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "2. 03/11/2026 - საქართველოს მთავრობის დადგენილება - 518 - ვებგვერდი, 03/11/2026 - ცვლილება შეიცავს გარდამავალ დებულებას",
+      "n": 2,
+      "adopted": "2026-11-03",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "518",
+      "source": "ვებგვერდი, 03/11/2026",
+      "published": "2026-11-03",
+      "transitional": true
+    },
+    {
+      "act_id": 6950863,
+      "title": "„აგროთანადაფინანსების სახელმწიფო პროგრამის დამტკიცების შესახებ“ საქართველოს მთავრობის 2026 წლის 24 ივნისის №285 დადგენილებაში ცვლილების შეტანის თაობაზე",
+      "raw": "1. 20/07/2026 - საქართველოს მთავრობის დადგენილება - 342 - ვებგვერდი, 22/07/2026",
+      "n": 1,
+      "adopted": "2026-07-20",
+      "type": "საქართველოს მთავრობის დადგენილება",
+      "number": "342",
+      "source": "ვებგვერდი, 22/07/2026",
+      "published": "2026-07-22",
+      "transitional": false
+    }
+  ],
+  "amendments_applied": false,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "metadata_only": false,
+  "note": "original publication 0; amending acts named separately and not applied"
+}
