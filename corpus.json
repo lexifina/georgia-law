@@ -52,7 +52,7 @@
   },
   "citation": {
     "file": "^([a-z-]+/\\d+)/(\\d+)\\.md$",
-    "cites": "(?<![\\d¹²³⁴⁵⁶⁷⁸⁹⁰])(?:მუხლი\\s+{n}(?![\\d¹²³⁴⁵⁶⁷⁸⁹⁰])|(?:მე-)?{n}(?![\\d¹²³⁴⁵⁶⁷⁸⁹⁰])(?:-ე)?\\s+მუხლ)",
+    "cites": "(^|[^0-9¹²³⁴⁵⁶⁷⁸⁹⁰])(მუხლი[[:space:]]+{n}([^0-9¹²³⁴⁵⁶⁷⁸⁹⁰]|$)|(მე-)?{n}(-ე)?[[:space:]]+მუხლ)",
     "note": "forms \"მუხლი N\", \"მე-N მუხლი\", \"N-ე მუხლი\"; articles with a superscript number (file 12-1.md = article 12¹) are not matched by the file rule; the first article is written \"პირველი მუხლი\" and lists (\"120-ე და 121-ე მუხლები\") match only their last number; citations are within the same law"
   },
   "tool": "tools/in_force_on.py"
