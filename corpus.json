@@ -1,0 +1,59 @@
+{
+  "corpus": "ge/national/acts",
+  "name": "Legislation of Georgia (laws, from Matsne)",
+  "label": "Georgia: laws",
+  "record_to": "2026-10-26",
+  "record_note": "every main document in Matsne's \"law\" group (Constitution, constitutional and organic laws, codes, laws, autonomous-republic laws), in force or expired; sub-legislative acts not included; changes published but in force after the build day are on the future branch",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "In-force",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "laws": {
+    "law": 796,
+    "organic-law": 40,
+    "rules-of-procedure": 4,
+    "code": 36,
+    "constitution": 2,
+    "other": 12,
+    "autonomous-republic": 57,
+    "constitutional-law": 1
+  },
+  "history_from": "1921-02-21",
+  "built": "2026-10-28",
+  "language": "ka",
+  "dates": {
+    "commit": "in-force (from the amending act's own in-force article)",
+    "other_trailers": [
+      "Adopted",
+      "Published",
+      "In-force-part"
+    ],
+    "time": "12:00 Asia/Tbilisi (+04:00)",
+    "before_1970": "clamped to 1970-01-01",
+    "future": "branch future, never merged"
+  },
+  "author": {
+    "amendment": "the amending act",
+    "original": "the law itself",
+    "unexplained": "Legislative Herald of Georgia (matsne.gov.ge)",
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "no scope note extracted for Georgia; transitional provisions are in the amending act at the Source link",
+    "default_reach": {
+      "rule": "no retroactive effect unless the act says so",
+      "meaning": "a normative act has no retroactive force unless it expressly provides so; a law that establishes or aggravates liability never has retroactive force",
+      "authority": "Constitution of Georgia, art. 31(5) (2017 text); Law of Georgia on Normative Acts, art. 24",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "^([a-z-]+/\\d+)/(\\d+)\\.md$",
+    "cites": "(?<![\\d¹²³⁴⁵⁶⁷⁸⁹⁰])(?:მუხლი\\s+{n}(?![\\d¹²³⁴⁵⁶⁷⁸⁹⁰])|(?:მე-)?{n}(?![\\d¹²³⁴⁵⁶⁷⁸⁹⁰])(?:-ე)?\\s+მუხლ)",
+    "note": "forms \"მუხლი N\", \"მე-N მუხლი\", \"N-ე მუხლი\"; articles with a superscript number (file 12-1.md = article 12¹) are not matched by the file rule; the first article is written \"პირველი მუხლი\" and lists (\"120-ე და 121-ე მუხლები\") match only their last number; citations are within the same law"
+  },
+  "tool": "tools/in_force_on.py"
+}
