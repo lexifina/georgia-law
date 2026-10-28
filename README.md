@@ -78,7 +78,7 @@ This is a research aid. Only the texts published by the Legislative Herald of Ge
 
 ## How it is built
 
-`fetch_catalogue.py` reads Matsne's search listing for every main document in the "law" group and each law's page, which lists its consolidated publications and its changes with links to the amending acts. `fetch_versions.py` downloads every publication and every amending act. `parse_doc.py` reads each publication into a title and articles. `inforce.py` reads each act's in-force article. `build.py` compares consecutive publications article by article, credits and dates each change as above, and writes the history with one streamed `git fast-import`. No AI model takes part in building or checking it.
+The record uses Matsne's search listing for every main document in the "law" group and each law's page, which lists its consolidated publications and its changes with links to the amending acts, and every publication and every amending act. `parse_doc.py` reads each publication into a title and articles. `inforce.py` reads each act's in-force article. `build.py` compares consecutive publications article by article, credits and dates each change as above, and writes the history with one streamed `git fast-import`. No AI model takes part in building or checking it.
 
 ## Licence
 
