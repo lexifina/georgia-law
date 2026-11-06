@@ -1,5 +1,7 @@
 # Georgian law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Georgia's national law, which global-law reads at `georgia/national/acts/`.
+
 The laws of Georgia as a git repository: 948 acts from [Matsne](https://matsne.gov.ge), the Legislative Herald of Georgia, the official publisher of Georgian legislation. They are every document Matsne lists as a main (consolidated) document in its "law" group (კანონი), in force or not: 796 laws; 57 laws of the autonomous republics (Adjara, Abkhazia); 40 organic laws; 36 codes; 12 other acts in the law group (Soviet-era decrees and similar); 4 rules of procedure (reglament) of Parliament; 2 constitutions (1995, and the 1921 Constitution as Matsne publishes it); 1 constitutional laws. There is one folder per law and one file per article. Each change is a commit credited to the act that made it, dated the day that act took effect, at noon Tbilisi time. The text is the Georgian original, as Matsne publishes it.
 
 The record runs from 1921-02-21 to 2026-10-26 in 11818 commits on `main`, built from 12954 consolidated publications. 58 further commits, for changes that have been published but take effect after 2026-10-28, are on the branch `future`, which is never merged.
