@@ -1,0 +1,24 @@
+{
+  "matsne_id": 6178509,
+  "title": "საქართველოს იუსტიციის სამინისტროს დებულების დამტკიცების შესახებ",
+  "status": "expired",
+  "history": "as-enacted; amended, not consolidated",
+  "as_enacted_source": "https://matsne.gov.ge/ka/document/view/6178509",
+  "amending_acts": [
+    {
+      "act_id": 6193325,
+      "title": "საქართველოს იუსტიციის სამინისტროს დებულების შესახებ",
+      "raw": "1. 31/05/1999 - საქართველოს პრეზიდენტის ბრძანებულება - 346 - სსმ, 27(34), 09/06/1999",
+      "n": 1,
+      "adopted": "1999-05-31",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "346",
+      "source": "სსმ, 27(34), 09/06/1999",
+      "published": "1999-06-09",
+      "transitional": false
+    }
+  ],
+  "adopted": "1997-09-22",
+  "published": "1997-09-30",
+  "note": "Amendments are named but not applied to this adopted text."
+}
