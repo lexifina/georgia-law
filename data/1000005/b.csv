@@ -3,17 +3,23 @@ matsne_id,path,status,history,in_force,source_sha256,source
 3840133,decree/2017/311,active,as-enacted,2017-11-01,e00559bffca21dbc93cce5e7df0d5e92d257af60d9f09941230e145e3f43b6a7,https://matsne.gov.ge/ka/document/view/3840133
 3840149,decree/2017/312,active,as-enacted,2017-11-01,506d2fe46b941eebe703e554a1ecc370125157018944cdb949afd5d80e742aa1,https://matsne.gov.ge/ka/document/view/3840149
 4110900,decree/2018/104,expired,"as-enacted; amended, not consolidated",2018-03-26,5768183ed48a42c2fdbec32cd9d5c3777b18f4b6f25cf37a02bc029dc050f448,https://matsne.gov.ge/ka/document/view/4110900
+4110953,decree/2018/105,expired,"as-enacted; amended, not consolidated",2018-03-26,9bc8590dee6a018fd6b13f075d564afb982e0a06036d37cc2beaea3b3b934104,https://matsne.gov.ge/ka/document/view/4110953
 4156771,decree/2018/138,active,as-enacted,2018-04-18,f5ab5fad9a1233613ea9d3f4022b83a40974d3d5d552893dc251f2fb72e2ac82,https://matsne.gov.ge/ka/document/view/4156771
 4307704,decree/2018/330,active,as-enacted,2018-08-08,3e45ddc4ef18bab879c775a7104b0d0e25d1e0d43ed98f32b6859f7d7d19a0aa,https://matsne.gov.ge/ka/document/view/4307704
 4396045,decree/2018/500,active,as-enacted,2018-12-14,512f37339781d356e142264b6cf0857bacc72d09ab4d2d6bc73318798e10be89,https://matsne.gov.ge/ka/document/view/4396045
+4453153,decree/2019/15,active,as-enacted,2019-01-11,a757858438353f6315f6d7633b7f7d8f9bed9ca7244fa99038c2f05564e59813,https://matsne.gov.ge/ka/document/view/4453153
 4456298,decree/2019/27,active,"as-enacted; amended, not consolidated",2019-01-18,9bb7b1eef59e428e05a13031a7d4df9785a8ba4b729cfc3b27ba87f04b2c0244,https://matsne.gov.ge/ka/document/view/4456298
+4456319,decree/2019/28,active,"as-enacted; amended, not consolidated",2019-01-18,2476aba0093b977c3fa66808d2cf1ca12cc9ceac56ce66eac9dc35ebfd78d3da,https://matsne.gov.ge/ka/document/view/4456319
 4511341,decree/2019/137,active,as-enacted,2019-03-17,fbaf8c7c8c555df8aac2e7359f5207dfe11bc32f02a9fdc475c2592802966732,https://matsne.gov.ge/ka/document/view/4511341
 4605777,decree/2019/297,active,as-enacted,2019-06-20,572490ae72482fe0c3454e19337850ab3cd45b00c82a3446ad4a3b617eead805,https://matsne.gov.ge/ka/document/view/4605777
+4712933,decree/2019/556,active,"as-enacted; amended, not consolidated",2019-11-26,ed5c0732d76baa7ea1fe0f4564e6289eab5dffba831435ce2c5645928e3d4104,https://matsne.gov.ge/ka/document/view/4712933
 4714967,decree/2019/546,active,as-enacted,2019-11-29,d6fb80a3a4aade07d72ed84b70e596a5cc8002b879c90a8627cb9ceb74447d5c,https://matsne.gov.ge/ka/document/view/4714967
 4722725,decree/2019/565,expired,as-enacted,2019-12-03,a0e1c9c99c3915d3e20f87202a5c17cc63db1534eebbad297d24bb212a2b0409,https://matsne.gov.ge/ka/document/view/4722725
 4951194,decree/2020/191,active,as-enacted,2020-07-30,9e23ac5f945d94148593b0c7235bf3f0857b991e8001f0b8fba69c733bc83aff,https://matsne.gov.ge/ka/document/view/4951194
+5214729,decree/2021/287,active,metadata-only,2021-07-13,5f2ae20e35db0d769536339945e02ef5310d850cc4663f5f538093db9e151d76,https://matsne.gov.ge/ka/document/view/5214729
 5572321,decree/2022/419,active,as-enacted,2022-09-12,4ee9d358f3902e199107e344d1fb6dcebab018c781b0c116057e85e7ec17de1b,https://matsne.gov.ge/ka/document/view/5572321
 5627606,decree/2022/561,active,"as-enacted; amended, not consolidated",2022-11-30,d7a70d259b654f01ba1fa1871eda7b4b14045c96171b7add65dcab6803069c31,https://matsne.gov.ge/ka/document/view/5627606
+6137184,decree/1994/83,expired,"as-enacted; amended, not consolidated",1994-03-31,58e9df947d1bbe6eab5412adbb45f32c80003e2b2c4325b7578154ac04cfa420,https://matsne.gov.ge/ka/document/view/6137184
 6160970,decree/2000/471,expired,"as-enacted; amended, not consolidated",2000-10-31,339a736c39c1187fcbe00cd074fc92fe0c15f103761779f7a9748f14e0d9706c,https://matsne.gov.ge/ka/document/view/6160970
 6177532,decree/1996/261,expired,"as-enacted; amended, not consolidated",1996-04-30,867e21d480f6b8c82181e3449865607ef2259c12c7363712799ec20a944f3308,https://matsne.gov.ge/ka/document/view/6177532
 6178509,decree/1997/530,expired,"as-enacted; amended, not consolidated",1997-09-30,7729b003fedbaf97653865e81cc88ff9ac25abd2baf2f807e85bec39aa57a195,https://matsne.gov.ge/ka/document/view/6178509
