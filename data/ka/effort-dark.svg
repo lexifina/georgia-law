@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc" textLength="420" lengthAdjust="spacingAndGlyphs">საქართველოს სამართალი როგორც git ისტორია</text>
+<rect x="459.7" y="24.5" width="194" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="556.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">ჩანაწერი 26 ოქტ. 2026-მდე</text>
+<rect x="662.0" y="24.5" width="194" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="759.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">აქტუალობა: მოძველებული</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">54</text>
+<text x="40.0" y="106" font-size="12" fill="#9198a1" textLength="142" lengthAdjust="spacingAndGlyphs">სამართლებრივი აქტი</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">11 817</text>
+<text x="206.4" y="106" font-size="12" fill="#9198a1" textLength="142" lengthAdjust="spacingAndGlyphs">ცვლილება, როგორც commit</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">15 808</text>
+<text x="372.8" y="106" font-size="12" fill="#9198a1">დებულების ფაილი</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">11 446</text>
+<text x="539.2" y="106" font-size="12" fill="#9198a1" textLength="142" lengthAdjust="spacingAndGlyphs">ავტორი: აქტი, გამომცემელი</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1921–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#9198a1">წლის ისტორია</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">ცვლილებები ძალაში შესვლის წლის მიხედვით</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
+<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">200</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">400</text>
+<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">600</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">800</text>
+<rect x="81.10" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1921: ძალაში შესული ცვლილებები: 1</title></rect>
+<rect x="95.42" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1923: ძალაში შესული ცვლილებები: 1</title></rect>
+<text x="148.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1930</text>
+<text x="220.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1940</text>
+<text x="291.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
+<text x="363.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
+<rect x="367.52" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1961: ძალაში შესული ცვლილებები: 4</title></rect>
+<rect x="374.68" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1962: ძალაში შესული ცვლილებები: 3</title></rect>
+<rect x="381.84" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1963: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="389.00" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1964: ძალაში შესული ცვლილებები: 4</title></rect>
+<rect x="396.16" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1965: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="403.32" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1966: ძალაში შესული ცვლილებები: 6</title></rect>
+<rect x="410.48" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1967: ძალაში შესული ცვლილებები: 1</title></rect>
+<rect x="417.64" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1968: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="424.80" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1969: ძალაში შესული ცვლილებები: 6</title></rect>
+<rect x="431.96" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1970: ძალაში შესული ცვლილებები: 8</title></rect>
+<text x="434.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1970</text>
+<rect x="439.12" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1971: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="446.28" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1972: ძალაში შესული ცვლილებები: 6</title></rect>
+<rect x="453.44" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1973: ძალაში შესული ცვლილებები: 7</title></rect>
+<rect x="460.60" y="327.7" width="5.96" height="2.8" rx="1.5" fill="#2ea043"><title>1974: ძალაში შესული ცვლილებები: 15</title></rect>
+<rect x="467.76" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1975: ძალაში შესული ცვლილებები: 7</title></rect>
+<rect x="474.92" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1976: ძალაში შესული ცვლილებები: 1</title></rect>
+<rect x="482.08" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1977: ძალაში შესული ცვლილებები: 8</title></rect>
+<rect x="489.24" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1978: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="496.40" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1979: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="503.56" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1980: ძალაში შესული ცვლილებები: 7</title></rect>
+<text x="506.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
+<rect x="510.72" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1981: ძალაში შესული ცვლილებები: 4</title></rect>
+<rect x="517.88" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1982: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="525.04" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1983: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="532.20" y="328.8" width="5.96" height="1.7" rx="1.5" fill="#2ea043"><title>1984: ძალაში შესული ცვლილებები: 9</title></rect>
+<rect x="539.36" y="328.1" width="5.96" height="2.4" rx="1.5" fill="#2ea043"><title>1985: ძალაში შესული ცვლილებები: 13</title></rect>
+<rect x="546.52" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1986: ძალაში შესული ცვლილებები: 8</title></rect>
+<rect x="553.68" y="327.9" width="5.96" height="2.6" rx="1.5" fill="#2ea043"><title>1987: ძალაში შესული ცვლილებები: 14</title></rect>
+<rect x="560.85" y="328.8" width="5.96" height="1.7" rx="1.5" fill="#2ea043"><title>1988: ძალაში შესული ცვლილებები: 9</title></rect>
+<rect x="568.01" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#2ea043"><title>1989: ძალაში შესული ცვლილებები: 7</title></rect>
+<rect x="575.17" y="326.2" width="5.96" height="4.3" rx="1.5" fill="#2ea043"><title>1990: ძალაში შესული ცვლილებები: 23</title></rect>
+<text x="578.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1990</text>
+<rect x="582.33" y="318.1" width="5.96" height="12.4" rx="1.5" fill="#2ea043"><title>1991: ძალაში შესული ცვლილებები: 66</title></rect>
+<rect x="589.49" y="325.6" width="5.96" height="4.9" rx="1.5" fill="#2ea043"><title>1992: ძალაში შესული ცვლილებები: 26</title></rect>
+<rect x="596.65" y="324.1" width="5.96" height="6.4" rx="1.5" fill="#2ea043"><title>1993: ძალაში შესული ცვლილებები: 34</title></rect>
+<rect x="603.81" y="324.3" width="5.96" height="6.2" rx="1.5" fill="#2ea043"><title>1994: ძალაში შესული ცვლილებები: 33</title></rect>
+<rect x="610.97" y="323.6" width="5.96" height="6.9" rx="1.5" fill="#2ea043"><title>1995: ძალაში შესული ცვლილებები: 37</title></rect>
+<rect x="618.13" y="312.7" width="5.96" height="17.8" rx="1.5" fill="#2ea043"><title>1996: ძალაში შესული ცვლილებები: 95</title></rect>
+<rect x="625.29" y="298.2" width="5.96" height="32.2" rx="1.5" fill="#2ea043"><title>1997: ძალაში შესული ცვლილებები: 172</title></rect>
+<rect x="632.45" y="302.0" width="5.96" height="28.5" rx="1.5" fill="#2ea043"><title>1998: ძალაში შესული ცვლილებები: 152</title></rect>
+<rect x="639.61" y="285.7" width="5.96" height="44.8" rx="1.5" fill="#2ea043"><title>1999: ძალაში შესული ცვლილებები: 239</title></rect>
+<rect x="646.77" y="301.2" width="5.96" height="29.2" rx="1.5" fill="#2ea043"><title>2000: ძალაში შესული ცვლილებები: 156</title></rect>
+<text x="649.8" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
+<rect x="653.93" y="302.9" width="5.96" height="27.6" rx="1.5" fill="#2ea043"><title>2001: ძალაში შესული ცვლილებები: 147</title></rect>
+<rect x="661.09" y="300.5" width="5.96" height="30.0" rx="1.5" fill="#2ea043"><title>2002: ძალაში შესული ცვლილებები: 160</title></rect>
+<rect x="668.25" y="285.1" width="5.96" height="45.4" rx="1.5" fill="#2ea043"><title>2003: ძალაში შესული ცვლილებები: 242</title></rect>
+<rect x="675.41" y="284.9" width="5.96" height="45.6" rx="1.5" fill="#2ea043"><title>2004: ძალაში შესული ცვლილებები: 243</title></rect>
+<rect x="682.57" y="251.8" width="5.96" height="78.8" rx="1.5" fill="#2ea043"><title>2005: ძალაში შესული ცვლილებები: 420</title></rect>
+<rect x="689.73" y="240.5" width="5.96" height="90.0" rx="1.5" fill="#2ea043"><title>2006: ძალაში შესული ცვლილებები: 480</title></rect>
+<rect x="696.89" y="236.2" width="5.96" height="94.3" rx="1.5" fill="#2ea043"><title>2007: ძალაში შესული ცვლილებები: 503</title></rect>
+<rect x="704.05" y="272.2" width="5.96" height="58.3" rx="1.5" fill="#2ea043"><title>2008: ძალაში შესული ცვლილებები: 311</title></rect>
+<rect x="711.21" y="253.4" width="5.96" height="77.1" rx="1.5" fill="#2ea043"><title>2009: ძალაში შესული ცვლილებები: 411</title></rect>
+<rect x="718.37" y="227.2" width="5.96" height="103.3" rx="1.5" fill="#2ea043"><title>2010: ძალაში შესული ცვლილებები: 551</title></rect>
+<text x="721.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
+<rect x="725.53" y="241.4" width="5.96" height="89.1" rx="1.5" fill="#2ea043"><title>2011: ძალაში შესული ცვლილებები: 475</title></rect>
+<rect x="732.69" y="253.1" width="5.96" height="77.4" rx="1.5" fill="#2ea043"><title>2012: ძალაში შესული ცვლილებები: 413</title></rect>
+<rect x="739.85" y="249.5" width="5.96" height="81.0" rx="1.5" fill="#2ea043"><title>2013: ძალაში შესული ცვლილებები: 432</title></rect>
+<rect x="747.02" y="258.5" width="5.96" height="72.0" rx="1.5" fill="#2ea043"><title>2014: ძალაში შესული ცვლილებები: 384</title></rect>
+<rect x="754.18" y="242.6" width="5.96" height="87.9" rx="1.5" fill="#2ea043"><title>2015: ძალაში შესული ცვლილებები: 469</title></rect>
+<rect x="761.34" y="279.7" width="5.96" height="50.8" rx="1.5" fill="#2ea043"><title>2016: ძალაში შესული ცვლილებები: 271</title></rect>
+<rect x="768.50" y="234.5" width="5.96" height="96.0" rx="1.5" fill="#2ea043"><title>2017: ძალაში შესული ცვლილებები: 512</title></rect>
+<rect x="775.66" y="201.9" width="5.96" height="128.6" rx="1.5" fill="#2ea043"><title>2018: ძალაში შესული ცვლილებები: 686</title></rect>
+<text x="778.6" y="195.9" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">2018 წელს: 686</text>
+<rect x="782.82" y="244.6" width="5.96" height="85.9" rx="1.5" fill="#2ea043"><title>2019: ძალაში შესული ცვლილებები: 458</title></rect>
+<rect x="789.98" y="231.5" width="5.96" height="99.0" rx="1.5" fill="#2ea043"><title>2020: ძალაში შესული ცვლილებები: 528</title></rect>
+<text x="793.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
+<rect x="797.14" y="263.9" width="5.96" height="66.6" rx="1.5" fill="#2ea043"><title>2021: ძალაში შესული ცვლილებები: 355</title></rect>
+<rect x="804.30" y="264.7" width="5.96" height="65.8" rx="1.5" fill="#2ea043"><title>2022: ძალაში შესული ცვლილებები: 351</title></rect>
+<rect x="811.46" y="251.2" width="5.96" height="79.3" rx="1.5" fill="#2ea043"><title>2023: ძალაში შესული ცვლილებები: 423</title></rect>
+<rect x="818.62" y="257.9" width="5.96" height="72.6" rx="1.5" fill="#2ea043"><title>2024: ძალაში შესული ცვლილებები: 387</title></rect>
+<rect x="825.78" y="211.1" width="5.96" height="119.4" rx="1.5" fill="#2ea043"><title>2025: ძალაში შესული ცვლილებები: 637</title></rect>
+<rect x="832.94" y="263.4" width="5.96" height="67.1" rx="1.5" fill="#2ea043"><title>2026: ძალაში შესული ცვლილებები: 358</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">ძალაში შესვლის დღით დათარიღებული ცვლილებები: 11 817. ისტორიის ტიპი: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">სისრულე, შემოწმებული ოფიციალური წყაროებით 12 ნოე. 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">კონსტიტუცია</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">არის რეპოზიტორიაში</text>
+<g><title>კონსტიტუცია: 100%</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">ძირითადი კოდექსები</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">არსებითი კოდექსების წილი</text>
+<g><title>ძირითადი კოდექსები: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">ეროვნული კანონმდებლობა</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">შეფასება (მაღალი სანდოობა, 99,8–100%)</text>
+<g><title>ეროვნული კანონმდებლობა: 99,8%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="91.3" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">~99,8%</text>
+<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">რეგიონული კანონმდებლობა</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">შეფასება (დაბალი სანდოობა, 32,2–69,0%)</text>
+<g><title>რეგიონული კანონმდებლობა: 47%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="692.0" y="443.5" width="42.8" height="8" rx="4" fill="#d29922"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">~47%</text>
+<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">სასამართლო პრაქტიკა</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">მოცული უმაღლესი სასამართლოები</text>
+<g><title>სასამართლო პრაქტიკა: 0%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">0%</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">არსებული შინაარსის სისწორე</text>
+<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc" textLength="226" lengthAdjust="spacingAndGlyphs">ცვლილებები ამოქმედების თარიღით</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">ცვლილებების წილი</text>
+<g><title>ცვლილებები ამოქმედების თარიღით: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc" textLength="226" lengthAdjust="spacingAndGlyphs">ცვლილებები ოფიციალური წყაროთი</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">Source ხაზი ან ბმული commit-ში</text>
+<g><title>ცვლილებები ოფიციალური წყაროთი: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#f0f6fc">შემოწმებულია ოფიციალური წყაროთი</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#9198a1">Matsne (Legislative Herald of Georgia)</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">28 ოქტ. 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">ქვეყნის კორპუსები global-law-ში</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">ეროვნული აქტები: 1</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">1</text>
+<text x="24" y="736" font-size="11.5" fill="#9198a1">lexifina/georgia-law, 9c5cdcb, აგებულია 2026-11-13. დოკუმენტაციის commit-ების გარეშე. მოცულობა: from 1921-02-21</text>
+</svg>
