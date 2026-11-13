@@ -1,0 +1,24 @@
+{
+  "matsne_id": 6193331,
+  "title": "საქართველოს იუსტიციის სამინისტროს დებულების შესახებ",
+  "status": "expired",
+  "history": "as-enacted; amended, not consolidated",
+  "as_enacted_source": "https://matsne.gov.ge/ka/document/view/6193331",
+  "amending_acts": [
+    {
+      "act_id": 6160970,
+      "title": "საქართველოს იუსტიციის სამინისტროს დებულების შესახებ",
+      "raw": "1. 30/10/2000 - საქართველოს პრეზიდენტის ბრძანებულება - 471 - სსმ, 101, 31/10/2000",
+      "n": 1,
+      "adopted": "2000-10-30",
+      "type": "საქართველოს პრეზიდენტის ბრძანებულება",
+      "number": "471",
+      "source": "სსმ, 101, 31/10/2000",
+      "published": "2000-10-31",
+      "transitional": false
+    }
+  ],
+  "adopted": "2000-03-13",
+  "published": "2000-03-14",
+  "note": "Amendments are named but not applied to this adopted text."
+}
