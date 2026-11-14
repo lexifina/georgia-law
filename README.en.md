@@ -1,97 +1,84 @@
-# Georgian law, change by change
+# Georgia: law history in git
 
-[ქართული](README.md) · **English**
+**English** · **[ან წაიკითხეთ ქართულად](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Georgian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Georgia as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Georgia's national law, which global-law reads at `georgia/national/acts/`.
 
-The laws of Georgia as a git repository: 948 acts from [Matsne](https://matsne.gov.ge), the Legislative Herald of Georgia, the official publisher of Georgian legislation. They are every document Matsne lists as a main (consolidated) document in its "law" group (კანონი), in force or not: 796 laws; 57 laws of the autonomous republics (Adjara, Abkhazia); 40 organic laws; 36 codes; 12 other acts in the law group (Soviet-era decrees and similar); 4 rules of procedure (reglament) of Parliament; 2 constitutions (1995, and the 1921 Constitution as Matsne publishes it); 1 constitutional laws. There is one folder per law and one file per article. Each change is a commit credited to the act that made it, dated the day that act took effect, at noon Tbilisi time. The text is the Georgian original, as Matsne publishes it.
+**What is in it now:** the Constitution (and the 1921 Constitution, as Matsne publishes it) and 946 other acts of Matsne's "law" group, in force or not, with 12,954 consolidated publications: 796 laws, 40 organic laws, 36 codes, 57 laws of the autonomous republics of Adjara and Abkhazia, 4 rules of procedure of Parliament, 1 constitutional law and 12 other acts (Soviet-era decrees and similar). 560 of them are on `main` today; the files of the other 388 were deleted on the day their repeal took effect. [`laws.csv`](laws.csv) lists every act with its title, status and Matsne link.
 
-The record runs from 1921-02-21 to 2026-10-26 in 11818 commits on `main`, built from 12954 consolidated publications. 58 further commits, for changes that have been published but take effect after 2026-10-28, are on the branch `future`, which is never merged.
+Each act is in `<kind>/<year>/<number>/`, by the year it was adopted and its number, one file per article (`organic-law/2010/4113-რს/` is the საქართველოს შრომის კოდექსი, the Labour Code of Georgia, Organic Law №4113-რს of 17 December 2010, and `14-1.md` its article 14¹); the Constitution is [`constitution/1995/786/`](constitution/1995/786/). Until 2026-11-10 each folder was named by the act's Matsne id (`organic-law/1155567/`), as `laws.csv` still gives it; `data/paths.json` maps each id to its folder.
 
-Sub-legislative acts (decrees, resolutions, orders: about 50,000 more documents on Matsne) are not included yet.
+The text is in Georgian, as Matsne publishes it. Matsne's unofficial English translations are not part of this record.
 
-## A lawyer's questions as git commands
-
-Each law's folder is `<kind>/<Matsne id>/`, listed with its title in [`laws.csv`](laws.csv): for example `constitution/30346` (the Constitution), `code/1043717` (the Tax Code), `code/31702` (the Civil Code), `code/16426` (the Criminal Code).
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did article 37 of the Constitution say on 1 January 2019? | `python tools/in_force_on.py 2019-01-01 constitution/30346 37` |
-| The whole of a law on a date | `python tools/in_force_on.py 2019-01-01 constitution/30346` |
-| The same, counting changes already published but not yet in force | `python tools/in_force_on.py --future 2027-01-01 code/1043717 1` |
-| Which act last changed each line of an article? | `git blame code/31702/1.md` |
-| Every change to an article, with the act behind it | `git log -p code/1043717/12-1.md` |
-| The words that changed, not whole lines | `git log -p --word-diff code/1043717/12-1.md` |
-| Everything one act changed | `git log --author='№6500-რს' --stat` |
-| Every act that changed a law, in order | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- code/1043717` |
-| Commits on or before a day, without time-zone surprises | `git log --before='2019-01-01T23:59:59+04:00' -1 -- constitution/30346` |
-| What no act is credited with | `git log --grep='Kind: unexplained'` |
-| The list of laws, and of amending acts with their in-force dates | [`laws.csv`](laws.csv), [`data/acts.csv`](data/acts.csv) |
+| Every change to Article 1 of the Labour Code | `git log --follow -p --word-diff -- organic-law/2010/4113-რს/1.md` |
+| Which act wrote each line of Article 1? | `git blame organic-law/2010/4113-რს/1.md` |
+| Every version of the Labour Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- organic-law/2010/4113-რს organic-law/1155567` |
+| Article 1 as in force on 1 January 2015 | `python tools/in_force_on.py 2015-01-01 organic-law/1155567 1` |
 
-In PowerShell, `git show $(...):path` splits into two arguments; use `$r = git rev-list -1 main -- code/31702; git show "$($r):code/31702/1.md"`.
+**Outside git**, we also host this record publicly, for free:
 
-Article files are named by number: `12-1.md` is article 12¹ (`მუხლი 12¹`). A second article with a number already used in the same law (an annex, a quoted text) gets `~2`. Each file starts with any book, part or chapter headings above the article as `##` lines, then the article heading as `# მუხლი 12¹. ...`, then one line per paragraph. Matsne prints, under amended text, a note naming the act that last changed it (`საქართველოს 2019 წლის 28 ივნისის კანონი №4906 - ვებგვერდი, 04.07.2019წ.`); these notes are kept where they appear, as `- ` lines. `title.md` holds the title and preamble, `signature.md` the signature block, and `changes-listed.md` the list of changes some older laws print at their end.
+- **[Ask Claude about Georgian law](https://global-law.lexifina.com/v1/try_claude?country=georgia)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=georgia)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90&jurisdictions=georgia)**: a search of Georgian law for "შვებულება" (leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## The dates, and which one we use
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Georgian or in English.
 
-Matsne publishes each law as a series of consolidated publications. Publication N is the text after the Nth change in the law's list of changes, and Matsne dates it by the day the amending act was **adopted**. That is neither the day it was published nor the day it took effect.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-**Commits are dated by the day the change took effect.** That date is read from the amending act's own in-force article on Matsne:
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add georgia/national/acts
+python3 tools/law.py show 2026-01-01 georgia/national/acts/organic-law/2010/4113-რს/1.md
+```
 
-- "ეს კანონი ამოქმედდეს გამოქვეყნებისთანავე" (on publication): the publication date. 6003 commits.
-- "გამოქვეყნებიდან მე-15 დღეს" (on the Nth day from publication): the publication date plus N days, because a period in days runs from the day after the event. 1215 commits.
-- A date in the act ("2021 წლის 1 მარტიდან"): that date. 2646 commits.
-- An event rather than a date (another law taking effect, a President's oath), or no in-force article found: the publication date, labelled `In-force-basis: published (...)` with the act's words quoted. 1006 commits.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Every amendment commit carries `In-force:`, `In-force-basis:`, `In-force-rule:` (the act's words), `Adopted:` and `Published:`. Where parts of an act take effect on other dates ("1. ეს კანონი, გარდა ამ კანონის პირველი მუხლისა, ამოქმედდეს გამოქვეყნებისთანავე. 2. ამ კანონის პირველი მუხლი ამოქმედდეს 2025 წლის 1 სექტემბრიდან."), the commit is dated by the act's main clause and the other parts are listed as `In-force-part:` lines. **The text in such a commit includes those parts from the main date**, because Matsne's consolidated text does not separate them.
+## Dates
 
-Acts take effect out of the order they were published (an act adopted in November may take effect on 1 January, after an act adopted in December that took effect at once). Changes are applied in the order they took effect. Where a later-published change touches lines that an earlier-published, not yet effective change also touches, it is re-applied to the text then in force by a three-way line merge. Where that is impossible, the change is held back until the earlier act takes effect and appears in its commit; both commits say so (`Held-back:` and `Includes-held-back:`, 1829 files in all).
+Each commit is dated at noon, Asia/Tbilisi, on the day the version took effect, and carries it in its `In-force:` trailer. Matsne dates its consolidated publications by the day the amending act was adopted; the day used here comes from the amending act's own in-force article:
 
-An act that took effect before the law it amends (a law amended between adoption and entry into force) is dated by the day the law took effect, with the act's own date as `In-force-act:`.
+- "on publication": the day it was published; "on the Nth day from publication": that day plus N days; a date in the act: that date;
+- an event rather than a date, or no in-force article: the day it was published, labelled `In-force-basis: published (...)` with the act's words quoted;
+- where parts of an act take effect later, the commit is dated by its main clause and lists them as `In-force-part:` lines, and its text already includes them, as Matsne's consolidated text does;
+- git cannot store dates before 1970, so the 32 earlier commits are dated 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/in_force_on.py`, not `git log --before`.
 
-The first commit of each law (`Kind: original`) is Matsne's publication 0: the law as adopted, dated by its own in-force article.
-
-**Git cannot store dates before 1970.** Laws from before then (Soviet-era codes and decrees) are committed on 1970-01-01, one second apart and in order. The real date is in the `In-force:` trailer, which `tools/in_force_on.py` reads.
-
-## What "author" means
-
-The author of a commit is the act that made the change, as Matsne lists it, at an address that cannot exist: `საქართველოს კანონი №4906 (28.06.2019) <law-4906-20190628@matsne.invalid>`. The name is the act's type, number and adoption date; the address is its number (transliterated) and adoption date. So `git blame` names, for each line, the act that last wrote it. The first commit of a law is authored by the law itself.
-
-A change is credited on Matsne's own word: publication N of a law is the text after change N in its list of changes, which links the amending act (`Evidence: matsne`). In 10769 commit parts the changed text also gains Matsne's printed note naming that act's number (`Evidence: matsne + note`); in 461 it does not (deletions leave no note, and older publications print fewer notes). A difference between two publications for which Matsne lists no act would be a commit by the publisher labelled `Kind: unexplained`; there are 0.
-
-In total: 947 original texts, 10583 amendment commits and 287 repeals, by 10866 amending acts.
-
-## What it does not show
-
-- Sub-legislative acts (Presidential decrees, Government resolutions, ministerial orders), international treaties and court decisions, except where they appear as amending acts. The Constitutional Court's decisions that strike down provisions are credited as the act that changed the text.
-- English translations. Matsne publishes unofficial English translations of many laws; only the Georgian text is authoritative and only it is used here.
-- Which parts of an act took effect later than its main clause, beyond the `In-force-part:` lines (see above).
-- Transitional and saving rules, which are in the amending acts at each commit's `Source:` link.
-- Repeals that Matsne records without a change in the law's list. 441 laws are no longer in force on Matsne; their files are deleted on the day the repealing act took effect where Matsne lists that act as the law's last change, and are otherwise left as last published (see `status` in `laws.csv`).
-- Footnotes, tables laid out as images, and formatting. Tables are kept as rows with cells separated by `|`.
-- Publications that could not be read: 0, listed in [`data/issues.csv`](data/issues.csv).
-
-This is a research aid. Only the texts published by the Legislative Herald of Georgia are official, and Matsne's consolidated versions, and so this repository, are not the official publication of the amending acts.
+Each change is credited to the act that made it, as Matsne lists it (`საქართველოს კანონი №4906 (28.06.2019)`), from Matsne's list of changes for each law; no change is left uncredited. The first commit of a law is the law as adopted (Matsne's publication 0), credited to the law itself. Changes published but due to take effect after 2026-10-28 are on the branch `future`, which is never merged.
 
 ## How it is checked
 
-- `tools/in_force_on.py` gives, for sampled articles and dates, the same text as Matsne's own consolidated publication for that date (see REPRODUCE.md).
-- Replaying every change of a law gives its latest publication on Matsne, for all but 0 laws (listed in `data/issues.csv`).
-- Every commit's trailers parse with `git interpret-trailers --parse`. `main` has no merges, and its dates never go backwards or past the build day.
-- The build is deterministic: from the same pages it gives the same commit hashes. The sha256 of every page is in [`data/page-sha256.tsv`](data/page-sha256.tsv). See [`REPRODUCE.md`](REPRODUCE.md).
+- Replaying every change of a law gives Matsne's latest publication of it, for every law; no publication was unreadable (`data/issues.csv` is empty).
+- The build is deterministic: the same pages give the same commit hashes, and the sha256 of every page read is in `data/page-sha256.tsv`. See [`REPRODUCE.md`](REPRODUCE.md).
+- History is append-only: no merge commits, no rewriting, and every commit's trailers parse with `git interpret-trailers --parse`.
 
-## How it is built
+## What it does not show
 
-The record uses Matsne's search listing for every main document in the "law" group and each law's page, which lists its consolidated publications and its changes with links to the amending acts, and every publication and every amending act. `parse_doc.py` reads each publication into a title and articles. `inforce.py` reads each act's in-force article. `build.py` compares consecutive publications article by article, credits and dates each change as above, and writes the history with one streamed `git fast-import`. No AI model takes part in building or checking it.
+- **Sub-legislative acts** (Presidential decrees, Government resolutions, ministerial orders: about 50,000 more documents on Matsne), treaties and court decisions, except as amending acts: a Constitutional Court decision that strikes down a provision is credited as the act that changed the text.
+- **Some repeals.** 54 laws Matsne marks as no longer in force are left as last published, because Matsne lists no repealing act as their last change (see `status` in `laws.csv`).
+- **Transitional rules**, which stay in the amending act at each commit's `Source:` link.
+- **Images and layout.** Footnotes, tables drawn as images and formatting are not in the files; other tables are kept as rows, with cells separated by `|`.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Matsne](https://matsne.gov.ge) (Legislative Herald of Georgia) | Official publisher of Georgian legislation | yes, every consolidated publication of each law | Each law's list of changes links the amending act; the acts' own in-force articles give the days |
 
 ## Licence
 
-Source: LEPL Legislative Herald of Georgia (სსიპ "საქართველოს საკანონმდებლო მაცნე"), https://matsne.gov.ge. The texts were converted to one file per article and arranged as commits, and the wording was not changed. Under the Law of Georgia on Copyright and Related Rights (article 8), official documents such as laws and other normative acts are not objects of copyright; Matsne's site carries the notice "ყველა უფლება დაცულია" (all rights reserved) for the site itself. **Check Matsne's terms before this repository is made public.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). Under article 8 of the Law of Georgia on Copyright and Related Rights, official documents (laws, other normative acts and their official translations) are not objects of copyright; the texts are reproduced without change to their wording. Lexifina's own contributions (tools, file arrangement, commit messages and documentation) are CC0 1.0.
+
+No AI model wrote or changed legal text; the scripts were written by an AI model, and no model runs while the record is fetched, parsed or built (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
