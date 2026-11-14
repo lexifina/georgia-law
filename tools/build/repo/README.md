@@ -1,85 +1,94 @@
-# Georgian law, change by change
+# საქართველო: სამართლის ისტორია git-ში
 
-The laws of Georgia as a git repository: {{LAWS}} acts from [Matsne](https://matsne.gov.ge), the Legislative Herald of Georgia, the official publisher of Georgian legislation. They are every document Matsne lists as a main (consolidated) document in its "law" group (კანონი), in force or not: {{KINDS_LINE}}. There is one folder per law and one file per article. Each change is a commit credited to the act that made it, dated the day that act took effect, at noon Tbilisi time. The text is the Georgian original, as Matsne publishes it.
+**ქართული** · **[Or read it in English](README.en.md)**
 
-The record runs from {{FIRST}} to {{LAST}} in {{COMMITS}} commits on `main`, built from {{VERSIONS}} consolidated publications. {{FUTURE}} further commits, for changes that have been published but take effect after {{TODAY}}, are on the branch `future`, which is never merged.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/ka/effort-dark.svg">
+<img alt="საქართველოს კანონმდებლობა ამ რეპოზიტორიაში: რას შეიცავს, ცვლილებები ძალაში შესვლის წლის მიხედვით, სისრულე ოფიციალურ წყაროებთან შედარებით და არსებული შინაარსის სისწორე" src="data/ka/effort-light.svg" width="880">
+</picture>
 
-Sub-legislative acts (decrees, resolutions, orders: about 50,000 more documents on Matsne) are not included yet.
+საქართველოს სამართალი git-ისტორიის სახით: თითო ფაილი თითოეული მუხლისთვის, თითო კომიტი თითოეული ვერსიისთვის იმ დღეს, როდესაც ის ძალაში შევიდა, და კომიტის ავტორად ის აქტი, რომელმაც ცვლილება შეიტანა. `git blame` ასახელებს აქტს, რომელიც თითოეული მუხლის უკან დგას; `git log` ჩამოთვლის მუხლის ყველა ცვლილებას; თარიღის არჩევა იძლევა იმ დღეს მოქმედ ტექსტს.
 
-## A lawyer's questions as git commands
+ეს რეპოზიტორია [lexifina/global-law](https://github.com/lexifina/global-law)-ის ნაწილია, რომელიც ყველა ქვეყნის სამართლის ერთიანი git-ისტორიაა: აქ არის საქართველოს ეროვნული სამართალი, რომელსაც global-law კითხულობს საქაღალდიდან `georgia/national/acts/`.
 
-Each law's folder is `<kind>/<Matsne id>/`, listed with its title in [`laws.csv`](laws.csv): for example `constitution/30346` (the Constitution), `code/1043717` (the Tax Code), `code/31702` (the Civil Code), `code/16426` (the Criminal Code).
+**რას შეიცავს ახლა:** კონსტიტუციას (და 1921 წლის კონსტიტუციას, როგორც მას მაცნე აქვეყნებს) და მაცნეს „კანონის“ ჯგუფის 946 სხვა აქტს, ძალაშია თუ არა, 12 954 კონსოლიდირებული პუბლიკაციით: 796 კანონი, 40 ორგანული კანონი, 36 კოდექსი, აჭარისა და აფხაზეთის ავტონომიური რესპუბლიკების 57 კანონი, პარლამენტის 4 რეგლამენტი, 1 კონსტიტუციური კანონი და 12 სხვა აქტი (საბჭოთა პერიოდის დეკრეტები და მსგავსი). მათგან 560 დღეს `main`-ზეა; დანარჩენი 388-ის ფაილები წაიშალა იმ დღეს, როდესაც მათი გაუქმება ძალაში შევიდა. [`laws.csv`](laws.csv) ჩამოთვლის ყველა აქტს მისი სათაურით, სტატუსითა და მაცნეს ბმულით.
 
-| Question | Command |
+თითოეული აქტი არის საქაღალდეში `<kind>/<year>/<number>/`, მიღების წლისა და ნომრის მიხედვით, თითო ფაილით თითოეული მუხლისთვის (`organic-law/2010/4113-რს/` არის საქართველოს შრომის კოდექსი, 2010 წლის 17 დეკემბრის №4113-რს ორგანული კანონი, ხოლო `14-1.md` მისი მუხლი 14¹); კონსტიტუცია არის [`constitution/1995/786/`](constitution/1995/786/). 2026-11-10-მდე თითოეული საქაღალდე აქტის მაცნეს id-ით იყო დასახელებული (`organic-law/1155567/`), როგორც ის `laws.csv`-ში დღესაც არის მითითებული; `data/paths.json` თითოეულ id-ს მის საქაღალდესთან აკავშირებს.
+
+ტექსტი ქართულია, როგორც მას მაცნე აქვეყნებს. მაცნეს არაოფიციალური ინგლისური თარგმანები ამ ჩანაწერის ნაწილი არ არის.
+
+## კითხვები git-ის ბრძანებებად
+
+| კითხვა | ბრძანება |
 | --- | --- |
-| What did article 37 of the Constitution say on 1 January 2019? | `python tools/in_force_on.py 2019-01-01 constitution/30346 37` |
-| The whole of a law on a date | `python tools/in_force_on.py 2019-01-01 constitution/30346` |
-| The same, counting changes already published but not yet in force | `python tools/in_force_on.py --future 2027-01-01 code/1043717 1` |
-| Which act last changed each line of an article? | `git blame code/31702/1.md` |
-| Every change to an article, with the act behind it | `git log -p code/1043717/12-1.md` |
-| The words that changed, not whole lines | `git log -p --word-diff code/1043717/12-1.md` |
-| Everything one act changed | `git log --author='№6500-რს' --stat` |
-| Every act that changed a law, in order | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- code/1043717` |
-| Commits on or before a day, without time-zone surprises | `git log --before='2019-01-01T23:59:59+04:00' -1 -- constitution/30346` |
-| What no act is credited with | `git log --grep='Kind: unexplained'` |
-| The list of laws, and of amending acts with their in-force dates | [`laws.csv`](laws.csv), [`data/acts.csv`](data/acts.csv) |
+| შრომის კოდექსის პირველი მუხლის ყველა ცვლილება | `git log --follow -p --word-diff -- organic-law/2010/4113-რს/1.md` |
+| რომელმა აქტმა დაწერა პირველი მუხლის თითოეული სტრიქონი? | `git blame organic-law/2010/4113-რს/1.md` |
+| შრომის კოდექსის ყველა ვერსია, თითოეულის ძალაში შესვლის დღით | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- organic-law/2010/4113-რს organic-law/1155567` |
+| პირველი მუხლი, როგორც ის მოქმედებდა 2015 წლის 1 იანვარს | `python tools/in_force_on.py 2015-01-01 organic-law/1155567 1` |
 
-In PowerShell, `git show $(...):path` splits into two arguments; use `$r = git rev-list -1 main -- code/31702; git show "$($r):code/31702/1.md"`.
+**git-ის გარეთ** ამ ჩანაწერს ასევე საჯაროდ და უფასოდ ვაქვეყნებთ:
 
-Article files are named by number: `12-1.md` is article 12¹ (`მუხლი 12¹`). A second article with a number already used in the same law (an annex, a quoted text) gets `~2`. Each file starts with any book, part or chapter headings above the article as `##` lines, then the article heading as `# მუხლი 12¹. ...`, then one line per paragraph. Matsne prints, under amended text, a note naming the act that last changed it (`საქართველოს 2019 წლის 28 ივნისის კანონი №4906 - ვებგვერდი, 04.07.2019წ.`); these notes are kept where they appear, as `- ` lines. `title.md` holds the title and preamble, `signature.md` the signature block, and `changes-listed.md` the list of changes some older laws print at their end.
+- **[ჰკითხეთ Claude-ს საქართველოს სამართლის შესახებ](https://global-law.lexifina.com/v1/try_claude?country=georgia)**: ხსნის Claude-ს მზა პირველი კითხვით.
+- **[ჰკითხეთ ChatGPT-ს](https://global-law.lexifina.com/v1/try_chatgpt?country=georgia)**: იგივე კითხვა ChatGPT-ში.
+- **[გამოიძახეთ API ბრაუზერში](https://global-law.lexifina.com/v1/search_law?query=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90&jurisdictions=georgia)**: საქართველოს სამართალში სიტყვის „შვებულება“ ძიება, პასუხი JSON-ის სახით. დოკუმენტაცია [აქ არის](https://lexifina.com/api/global-law).
 
-## The dates, and which one we use
+ორივე ასისტენტი ჩანაწერს კითხულობს უფასო კონექტორით Global law (MCP, `https://global-law.lexifina.com/mcp`); პირველად ჩატი მოგცემთ ბმულს, რომლითაც კონექტორი ემატება. იკითხეთ ქართულად ან ინგლისურად.
 
-Matsne publishes each law as a series of consolidated publications. Publication N is the text after the Nth change in the law's list of changes, and Matsne dates it by the day the amending act was **adopted**. That is neither the day it was published nor the day it took effect.
+**მარტივად გაუშვით თავად.** საკმარისია git და Python, ხოლო ინსტრუმენტები თქვენს კომპიუტერზე მუშაობს:
 
-**Commits are dated by the day the change took effect.** That date is read from the amending act's own in-force article on Matsne:
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add georgia/national/acts
+python3 tools/law.py show 2026-01-01 georgia/national/acts/organic-law/2010/4113-რს/1.md
+```
 
-- "ეს კანონი ამოქმედდეს გამოქვეყნებისთანავე" (on publication): the publication date. {{BASIS_PUBLICATION}} commits.
-- "გამოქვეყნებიდან მე-15 დღეს" (on the Nth day from publication): the publication date plus N days, because a period in days runs from the day after the event. {{BASIS_DAY}} commits.
-- A date in the act ("2021 წლის 1 მარტიდან"): that date. {{BASIS_DATE}} commits.
-- An event rather than a date (another law taking effect, a President's oath), or no in-force article found: the publication date, labelled `In-force-basis: published (...)` with the act's words quoted. {{BASIS_FALLBACK}} commits.
+Claude Code-ში, Cursor-ში, VS Code-ში ან Codex-ში გახსნისას კლონი ასევე უშვებს ლოკალურ MCP სერვერს იმავე ინსტრუმენტებით ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Every amendment commit carries `In-force:`, `In-force-basis:`, `In-force-rule:` (the act's words), `Adopted:` and `Published:`. Where parts of an act take effect on other dates ("1. ეს კანონი, გარდა ამ კანონის პირველი მუხლისა, ამოქმედდეს გამოქვეყნებისთანავე. 2. ამ კანონის პირველი მუხლი ამოქმედდეს 2025 წლის 1 სექტემბრიდან."), the commit is dated by the act's main clause and the other parts are listed as `In-force-part:` lines. **The text in such a commit includes those parts from the main date**, because Matsne's consolidated text does not separate them.
+## თარიღები
 
-Acts take effect out of the order they were published (an act adopted in November may take effect on 1 January, after an act adopted in December that took effect at once). Changes are applied in the order they took effect. Where a later-published change touches lines that an earlier-published, not yet effective change also touches, it is re-applied to the text then in force by a three-way line merge. Where that is impossible, the change is held back until the earlier act takes effect and appears in its commit; both commits say so (`Held-back:` and `Includes-held-back:`, {{HELD_BACK}} files in all).
+თითოეული კომიტი დათარიღებულია თბილისის დროით (Asia/Tbilisi) შუადღით, იმ დღით, როდესაც ვერსია ძალაში შევიდა, და ეს დღე მის `In-force:` ტრეილერშიც არის. მაცნე თავის კონსოლიდირებულ პუბლიკაციებს ცვლილების შემტანი აქტის მიღების დღით ათარიღებს; აქ გამოყენებული დღე აღებულია ცვლილების შემტანი აქტის საკუთარი ამოქმედების მუხლიდან:
 
-An act that took effect before the law it amends (a law amended between adoption and entry into force) is dated by the day the law took effect, with the act's own date as `In-force-act:`.
+- „ამოქმედდეს გამოქვეყნებისთანავე“: გამოქვეყნების დღე; „გამოქვეყნებიდან მე-N დღეს“: ამ დღეს დამატებული N დღე; აქტში მითითებული თარიღი: ეს თარიღი;
+- თარიღის ნაცვლად მოვლენა, ან ამოქმედების მუხლის არარსებობა: გამოქვეყნების დღე, აღნიშნული როგორც `In-force-basis: published (...)`, აქტის სიტყვების ციტირებით;
+- როდესაც აქტის ნაწილები ძალაში მოგვიანებით შედის, კომიტი თარიღდება მისი ძირითადი დებულებით და ეს ნაწილები ჩამოთვლილია `In-force-part:` სტრიქონებად, ხოლო კომიტის ტექსტი მათ უკვე მოიცავს, ისევე როგორც მაცნეს კონსოლიდირებული ტექსტი;
+- git-ს არ შეუძლია 1970 წლამდელი თარიღების შენახვა, ამიტომ 32 ადრინდელი კომიტი დათარიღებულია 1970-01-01-ით, ერთმანეთისგან ერთი წამის ინტერვალით, ხოლო ნამდვილი დღე `In-force:`-შია. თარიღისთვის გამოიყენეთ `tools/in_force_on.py` და არა `git log --before`.
 
-The first commit of each law (`Kind: original`) is Matsne's publication 0: the law as adopted, dated by its own in-force article.
+თითოეული ცვლილება მიეწერება აქტს, რომელმაც ის შეიტანა, ისე, როგორც მას მაცნე ასახელებს (`საქართველოს კანონი №4906 (28.06.2019)`), მაცნეზე თითოეული კანონის ცვლილებათა სიის მიხედვით; არცერთი ცვლილება არ რჩება მიუწერელი. კანონის პირველი კომიტი არის კანონი მიღებული სახით (მაცნეს 0 პუბლიკაცია), რომელიც თავად კანონს მიეწერება. ცვლილებები, რომლებიც უკვე გამოქვეყნდა, მაგრამ ძალაში 2026-10-28-ის შემდეგ უნდა შევიდეს, არის შტოზე `future`, რომელიც არასოდეს შეირწყმება.
 
-**Git cannot store dates before 1970.** Laws from before then (Soviet-era codes and decrees) are committed on 1970-01-01, one second apart and in order. The real date is in the `In-force:` trailer, which `tools/in_force_on.py` reads.
+## როგორ მოწმდება
 
-## What "author" means
+- კანონის ყველა ცვლილების თანმიმდევრული გამოყენება იძლევა მის უახლეს პუბლიკაციას მაცნეზე, ყველა კანონისთვის; არცერთი პუბლიკაცია არ დარჩენილა წაუკითხავი (`data/issues.csv` ცარიელია).
+- აგება დეტერმინისტულია: იმავე გვერდებიდან მიიღება კომიტების იმავე ჰეშები, ხოლო ყოველი წაკითხული გვერდის sha256 არის ფაილში `data/page-sha256.tsv`. იხ. [`REPRODUCE.md`](REPRODUCE.md).
+- ისტორია მხოლოდ ივსება: შერწყმის (merge) კომიტები არ არის, ისტორია არ გადაიწერება, და ყოველი კომიტის ტრეილერები იკითხება `git interpret-trailers --parse`-ით.
 
-The author of a commit is the act that made the change, as Matsne lists it, at an address that cannot exist: `საქართველოს კანონი №4906 (28.06.2019) <law-4906-20190628@matsne.invalid>`. The name is the act's type, number and adoption date; the address is its number (transliterated) and adoption date. So `git blame` names, for each line, the act that last wrote it. The first commit of a law is authored by the law itself.
+## რას არ აჩვენებს
 
-A change is credited on Matsne's own word: publication N of a law is the text after change N in its list of changes, which links the amending act (`Evidence: matsne`). In {{EVIDENCE_NOTE}} commit parts the changed text also gains Matsne's printed note naming that act's number (`Evidence: matsne + note`); in {{EVIDENCE_LIST}} it does not (deletions leave no note, and older publications print fewer notes). A difference between two publications for which Matsne lists no act would be a commit by the publisher labelled `Kind: unexplained`; there are {{UNEXPLAINED}}.
+- **კანონქვემდებარე აქტებს** (პრეზიდენტის ბრძანებულებებს, მთავრობის დადგენილებებს, მინისტრის ბრძანებებს: მაცნეზე კიდევ დაახლოებით 50 000 დოკუმენტი), საერთაშორისო ხელშეკრულებებსა და სასამართლო გადაწყვეტილებებს, გარდა ცვლილების შემტანი აქტების სახით: საკონსტიტუციო სასამართლოს გადაწყვეტილება, რომლითაც დებულება არაკონსტიტუციურად არის ცნობილი, მიეწერება როგორც ტექსტის შემცვლელი აქტი.
+- **ზოგიერთ გაუქმებას.** მაცნეზე ძალადაკარგულად მონიშნული 54 კანონი რჩება ბოლო გამოქვეყნებული სახით, რადგან მაცნე მათ ბოლო ცვლილებად გამაუქმებელ აქტს არ ასახელებს (იხ. `status` ფაილში `laws.csv`).
+- **გარდამავალ ნორმებს**, რომლებიც რჩება ცვლილების შემტან აქტში, თითოეული კომიტის `Source:` ბმულზე.
+- **სურათებსა და განლაგებას.** სქოლიოები, სურათების სახით მოცემული ცხრილები და ფორმატირება ფაილებში არ არის; სხვა ცხრილები შენარჩუნებულია სტრიქონებად, რომელთა უჯრები `|`-ით არის გამოყოფილი.
 
-In total: {{ORIGINAL}} original texts, {{AMENDMENT}} amendment commits and {{REPEAL}} repeals, by {{AMENDING_ACTS}} amending acts.
+## წყაროები
 
-## What it does not show
+| წყარო | სახე | წინა ვერსიები | შენიშვნები |
+| --- | --- | --- | --- |
+| [მაცნე](https://matsne.gov.ge) (საქართველოს საკანონმდებლო მაცნე) | ქართული კანონმდებლობის ოფიციალური გამომცემელი | კი, თითოეული კანონის ყველა კონსოლიდირებული პუბლიკაცია | თითოეული კანონის ცვლილებათა სია ცვლილების შემტან აქტზე ბმულს შეიცავს; დღეებს აქტების საკუთარი ამოქმედების მუხლები იძლევა |
 
-- Sub-legislative acts (Presidential decrees, Government resolutions, ministerial orders), international treaties and court decisions, except where they appear as amending acts. The Constitutional Court's decisions that strike down provisions are credited as the act that changed the text.
-- English translations. Matsne publishes unofficial English translations of many laws; only the Georgian text is authoritative and only it is used here.
-- Which parts of an act took effect later than its main clause, beyond the `In-force-part:` lines (see above).
-- Transitional and saving rules, which are in the amending acts at each commit's `Source:` link.
-- Repeals that Matsne records without a change in the law's list. {{EXPIRED}} laws are no longer in force on Matsne; their files are deleted on the day the repealing act took effect where Matsne lists that act as the law's last change, and are otherwise left as last published (see `status` in `laws.csv`).
-- Footnotes, tables laid out as images, and formatting. Tables are kept as rows with cells separated by `|`.
-- Publications that could not be read: {{UNREADABLE}}, listed in [`data/issues.csv`](data/issues.csv).
+## ლიცენზია
 
-This is a research aid. Only the texts published by the Legislative Herald of Georgia are official, and Matsne's consolidated versions, and so this repository, are not the official publication of the amending acts.
+იხ. [`LICENSE`](LICENSE). საქართველოს კანონის „საავტორო და მომიჯნავე უფლებების შესახებ“ მე-8 მუხლის თანახმად, ოფიციალური დოკუმენტები (კანონები, სხვა ნორმატიული აქტები და მათი ოფიციალური თარგმანები) საავტორო უფლების ობიექტს არ წარმოადგენს; ტექსტები მოცემულია მათი ფორმულირების შეუცვლელად. Lexifina-ს საკუთარი წვლილი (ინსტრუმენტები, ფაილების სტრუქტურა, კომიტების შეტყობინებები და დოკუმენტაცია) ვრცელდება CC0 1.0-ის პირობებით.
 
-## How it is checked
+ხელოვნური ინტელექტის არცერთ მოდელს არ დაუწერია და არ შეუცვლია სამართლებრივი ტექსტი; სკრიპტები დაწერა ხელოვნური ინტელექტის მოდელმა, ხოლო ჩანაწერის ჩამოტვირთვის, დამუშავების ან აგების დროს არცერთი მოდელი არ მუშაობს (იხ. [`REPRODUCE.md`](REPRODUCE.md)).
 
-- `tools/in_force_on.py` gives, for sampled articles and dates, the same text as Matsne's own consolidated publication for that date (see REPRODUCE.md).
-- Replaying every change of a law gives its latest publication on Matsne, for all but {{REPLAY_MISMATCH}} laws (listed in `data/issues.csv`).
-- Every commit's trailers parse with `git interpret-trailers --parse`. `main` has no merges, and its dates never go backwards or past the build day.
-- The build is deterministic: from the same pages it gives the same commit hashes. The sha256 of every page is in [`data/page-sha256.tsv`](data/page-sha256.tsv). See [`REPRODUCE.md`](REPRODUCE.md).
+ეს არის ინგლისური ვერსიის ([README.en.md](README.en.md)) თარგმანი; განსხვავების შემთხვევაში უპირატესობა ინგლისურ ვერსიას აქვს.
 
-## How it is built
+## მეტი
 
-The record uses Matsne's search listing for every main document in the "law" group and each law's page, which lists its consolidated publications and its changes with links to the amending acts, and every publication and every amending act. `parse_doc.py` reads each publication into a title and articles. `inforce.py` reads each act's in-force article. `build.py` compares consecutive publications article by article, credits and dates each change as above, and writes the history with one streamed `git fast-import`. No AI model takes part in building or checking it.
+რეპოზიტორიიდან [lexifina/global-law](https://github.com/lexifina/global-law) (ინგლისურად):
 
-## Licence
-
-Source: LEPL Legislative Herald of Georgia (სსიპ "საქართველოს საკანონმდებლო მაცნე"), https://matsne.gov.ge. The texts were converted to one file per article and arranged as commits, and the wording was not changed. Under the Law of Georgia on Copyright and Related Rights (article 8), official documents such as laws and other normative acts are not objects of copyright; Matsne's site carries the notice "ყველა უფლება დაცულია" (all rights reserved) for the site itself. **Check Matsne's terms before this repository is made public.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): ყველა ფუნქცია და რა უნდა უზრუნველყოს თითოეულმა კორპუსმა (`git blame`, `law.py`, MCP ინსტრუმენტები)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): კითხვები და პასუხები · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): ცვლილებების შეთავაზება · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP სერვერი · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): როგორ შეიქმნა · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): რამდენად აქტუალურია თითოეული კორპუსი · [მონიტორინგი](https://github.com/lexifina/global-law/tree/main/monitoring): მუშაობს თუ არა განახლებები · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): როგორ მოწმდება თითოეული ოფიციალური წყარო ცვლილებებზე
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): რამდენად სწრაფია ინსტრუმენტები, გაზომილი
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): დიაგრამები და კავშირები მთელი მსოფლიოს სამართალში
+- [მოწყვლადობები](https://github.com/lexifina/global-law/tree/main/vulnerabilities): შეცდომები აქტებში, როგორც ისინი გამოქვეყნდა
