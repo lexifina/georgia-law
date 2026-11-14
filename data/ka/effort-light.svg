@@ -1,153 +1,153 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328" textLength="420" lengthAdjust="spacingAndGlyphs">საქართველოს სამართალი როგორც git ისტორია</text>
-<rect x="459.7" y="24.5" width="194" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="556.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">ჩანაწერი 26 ოქტ. 2026-მდე</text>
-<rect x="662.0" y="24.5" width="194" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="759.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">აქტუალობა: მოძველებული</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">54</text>
-<text x="40.0" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">სამართლებრივი აქტი</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">11 817</text>
-<text x="206.4" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">ცვლილება, როგორც commit</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">15 808</text>
-<text x="372.8" y="106" font-size="12" fill="#59636e">დებულების ფაილი</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">11 446</text>
-<text x="539.2" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">ავტორი: აქტი, გამომცემელი</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1921–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#59636e">წლის ისტორია</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">ცვლილებები ძალაში შესვლის წლის მიხედვით</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
-<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#59636e">200</text>
-<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">400</text>
-<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#59636e">600</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">800</text>
-<rect x="81.10" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1921: ძალაში შესული ცვლილებები: 1</title></rect>
-<rect x="95.42" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1923: ძალაში შესული ცვლილებები: 1</title></rect>
-<text x="148.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1930</text>
-<text x="220.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1940</text>
-<text x="291.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1950</text>
-<text x="363.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1960</text>
-<rect x="367.52" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1961: ძალაში შესული ცვლილებები: 4</title></rect>
-<rect x="374.68" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1962: ძალაში შესული ცვლილებები: 3</title></rect>
-<rect x="381.84" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1963: ძალაში შესული ცვლილებები: 2</title></rect>
-<rect x="389.00" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1964: ძალაში შესული ცვლილებები: 4</title></rect>
-<rect x="396.16" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1965: ძალაში შესული ცვლილებები: 2</title></rect>
-<rect x="403.32" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1966: ძალაში შესული ცვლილებები: 6</title></rect>
-<rect x="410.48" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1967: ძალაში შესული ცვლილებები: 1</title></rect>
-<rect x="417.64" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1968: ძალაში შესული ცვლილებები: 2</title></rect>
-<rect x="424.80" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1969: ძალაში შესული ცვლილებები: 6</title></rect>
-<rect x="431.96" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1970: ძალაში შესული ცვლილებები: 8</title></rect>
-<text x="434.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1970</text>
-<rect x="439.12" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1971: ძალაში შესული ცვლილებები: 5</title></rect>
-<rect x="446.28" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1972: ძალაში შესული ცვლილებები: 6</title></rect>
-<rect x="453.44" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1973: ძალაში შესული ცვლილებები: 7</title></rect>
-<rect x="460.60" y="327.7" width="5.96" height="2.8" rx="1.5" fill="#1f883d"><title>1974: ძალაში შესული ცვლილებები: 15</title></rect>
-<rect x="467.76" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1975: ძალაში შესული ცვლილებები: 7</title></rect>
-<rect x="474.92" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1976: ძალაში შესული ცვლილებები: 1</title></rect>
-<rect x="482.08" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1977: ძალაში შესული ცვლილებები: 8</title></rect>
-<rect x="489.24" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1978: ძალაში შესული ცვლილებები: 2</title></rect>
-<rect x="496.40" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1979: ძალაში შესული ცვლილებები: 5</title></rect>
-<rect x="503.56" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1980: ძალაში შესული ცვლილებები: 7</title></rect>
-<text x="506.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1980</text>
-<rect x="510.72" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1981: ძალაში შესული ცვლილებები: 4</title></rect>
-<rect x="517.88" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1982: ძალაში შესული ცვლილებები: 5</title></rect>
-<rect x="525.04" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1983: ძალაში შესული ცვლილებები: 5</title></rect>
-<rect x="532.20" y="328.8" width="5.96" height="1.7" rx="1.5" fill="#1f883d"><title>1984: ძალაში შესული ცვლილებები: 9</title></rect>
-<rect x="539.36" y="328.1" width="5.96" height="2.4" rx="1.5" fill="#1f883d"><title>1985: ძალაში შესული ცვლილებები: 13</title></rect>
-<rect x="546.52" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1986: ძალაში შესული ცვლილებები: 8</title></rect>
-<rect x="553.68" y="327.9" width="5.96" height="2.6" rx="1.5" fill="#1f883d"><title>1987: ძალაში შესული ცვლილებები: 14</title></rect>
-<rect x="560.85" y="328.8" width="5.96" height="1.7" rx="1.5" fill="#1f883d"><title>1988: ძალაში შესული ცვლილებები: 9</title></rect>
-<rect x="568.01" y="329.0" width="5.96" height="1.5" rx="1.5" fill="#1f883d"><title>1989: ძალაში შესული ცვლილებები: 7</title></rect>
-<rect x="575.17" y="326.2" width="5.96" height="4.3" rx="1.5" fill="#1f883d"><title>1990: ძალაში შესული ცვლილებები: 23</title></rect>
-<text x="578.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1990</text>
-<rect x="582.33" y="318.1" width="5.96" height="12.4" rx="1.5" fill="#1f883d"><title>1991: ძალაში შესული ცვლილებები: 66</title></rect>
-<rect x="589.49" y="325.6" width="5.96" height="4.9" rx="1.5" fill="#1f883d"><title>1992: ძალაში შესული ცვლილებები: 26</title></rect>
-<rect x="596.65" y="324.1" width="5.96" height="6.4" rx="1.5" fill="#1f883d"><title>1993: ძალაში შესული ცვლილებები: 34</title></rect>
-<rect x="603.81" y="324.3" width="5.96" height="6.2" rx="1.5" fill="#1f883d"><title>1994: ძალაში შესული ცვლილებები: 33</title></rect>
-<rect x="610.97" y="323.6" width="5.96" height="6.9" rx="1.5" fill="#1f883d"><title>1995: ძალაში შესული ცვლილებები: 37</title></rect>
-<rect x="618.13" y="312.7" width="5.96" height="17.8" rx="1.5" fill="#1f883d"><title>1996: ძალაში შესული ცვლილებები: 95</title></rect>
-<rect x="625.29" y="298.2" width="5.96" height="32.2" rx="1.5" fill="#1f883d"><title>1997: ძალაში შესული ცვლილებები: 172</title></rect>
-<rect x="632.45" y="302.0" width="5.96" height="28.5" rx="1.5" fill="#1f883d"><title>1998: ძალაში შესული ცვლილებები: 152</title></rect>
-<rect x="639.61" y="285.7" width="5.96" height="44.8" rx="1.5" fill="#1f883d"><title>1999: ძალაში შესული ცვლილებები: 239</title></rect>
-<rect x="646.77" y="301.2" width="5.96" height="29.2" rx="1.5" fill="#1f883d"><title>2000: ძალაში შესული ცვლილებები: 156</title></rect>
-<text x="649.8" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
-<rect x="653.93" y="302.9" width="5.96" height="27.6" rx="1.5" fill="#1f883d"><title>2001: ძალაში შესული ცვლილებები: 147</title></rect>
-<rect x="661.09" y="300.5" width="5.96" height="30.0" rx="1.5" fill="#1f883d"><title>2002: ძალაში შესული ცვლილებები: 160</title></rect>
-<rect x="668.25" y="285.1" width="5.96" height="45.4" rx="1.5" fill="#1f883d"><title>2003: ძალაში შესული ცვლილებები: 242</title></rect>
-<rect x="675.41" y="284.9" width="5.96" height="45.6" rx="1.5" fill="#1f883d"><title>2004: ძალაში შესული ცვლილებები: 243</title></rect>
-<rect x="682.57" y="251.8" width="5.96" height="78.8" rx="1.5" fill="#1f883d"><title>2005: ძალაში შესული ცვლილებები: 420</title></rect>
-<rect x="689.73" y="240.5" width="5.96" height="90.0" rx="1.5" fill="#1f883d"><title>2006: ძალაში შესული ცვლილებები: 480</title></rect>
-<rect x="696.89" y="236.2" width="5.96" height="94.3" rx="1.5" fill="#1f883d"><title>2007: ძალაში შესული ცვლილებები: 503</title></rect>
-<rect x="704.05" y="272.2" width="5.96" height="58.3" rx="1.5" fill="#1f883d"><title>2008: ძალაში შესული ცვლილებები: 311</title></rect>
-<rect x="711.21" y="253.4" width="5.96" height="77.1" rx="1.5" fill="#1f883d"><title>2009: ძალაში შესული ცვლილებები: 411</title></rect>
-<rect x="718.37" y="227.2" width="5.96" height="103.3" rx="1.5" fill="#1f883d"><title>2010: ძალაში შესული ცვლილებები: 551</title></rect>
-<text x="721.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
-<rect x="725.53" y="241.4" width="5.96" height="89.1" rx="1.5" fill="#1f883d"><title>2011: ძალაში შესული ცვლილებები: 475</title></rect>
-<rect x="732.69" y="253.1" width="5.96" height="77.4" rx="1.5" fill="#1f883d"><title>2012: ძალაში შესული ცვლილებები: 413</title></rect>
-<rect x="739.85" y="249.5" width="5.96" height="81.0" rx="1.5" fill="#1f883d"><title>2013: ძალაში შესული ცვლილებები: 432</title></rect>
-<rect x="747.02" y="258.5" width="5.96" height="72.0" rx="1.5" fill="#1f883d"><title>2014: ძალაში შესული ცვლილებები: 384</title></rect>
-<rect x="754.18" y="242.6" width="5.96" height="87.9" rx="1.5" fill="#1f883d"><title>2015: ძალაში შესული ცვლილებები: 469</title></rect>
-<rect x="761.34" y="279.7" width="5.96" height="50.8" rx="1.5" fill="#1f883d"><title>2016: ძალაში შესული ცვლილებები: 271</title></rect>
-<rect x="768.50" y="234.5" width="5.96" height="96.0" rx="1.5" fill="#1f883d"><title>2017: ძალაში შესული ცვლილებები: 512</title></rect>
-<rect x="775.66" y="201.9" width="5.96" height="128.6" rx="1.5" fill="#1f883d"><title>2018: ძალაში შესული ცვლილებები: 686</title></rect>
-<text x="778.6" y="195.9" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">2018 წელს: 686</text>
-<rect x="782.82" y="244.6" width="5.96" height="85.9" rx="1.5" fill="#1f883d"><title>2019: ძალაში შესული ცვლილებები: 458</title></rect>
-<rect x="789.98" y="231.5" width="5.96" height="99.0" rx="1.5" fill="#1f883d"><title>2020: ძალაში შესული ცვლილებები: 528</title></rect>
-<text x="793.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
-<rect x="797.14" y="263.9" width="5.96" height="66.6" rx="1.5" fill="#1f883d"><title>2021: ძალაში შესული ცვლილებები: 355</title></rect>
-<rect x="804.30" y="264.7" width="5.96" height="65.8" rx="1.5" fill="#1f883d"><title>2022: ძალაში შესული ცვლილებები: 351</title></rect>
-<rect x="811.46" y="251.2" width="5.96" height="79.3" rx="1.5" fill="#1f883d"><title>2023: ძალაში შესული ცვლილებები: 423</title></rect>
-<rect x="818.62" y="257.9" width="5.96" height="72.6" rx="1.5" fill="#1f883d"><title>2024: ძალაში შესული ცვლილებები: 387</title></rect>
-<rect x="825.78" y="211.1" width="5.96" height="119.4" rx="1.5" fill="#1f883d"><title>2025: ძალაში შესული ცვლილებები: 637</title></rect>
-<rect x="832.94" y="263.4" width="5.96" height="67.1" rx="1.5" fill="#1f883d"><title>2026: ძალაში შესული ცვლილებები: 358</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">ძალაში შესვლის დღით დათარიღებული ცვლილებები: 11 817.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">სისრულე, შემოწმებული ოფიციალური წყაროებით 12 ნოე. 2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#1f2328">კონსტიტუცია</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">არის რეპოზიტორიაში</text>
-<g><title>კონსტიტუცია: 100%</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="40.5" y="482.5" font-size="13" fill="#1f2328">ძირითადი კოდექსები</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">არსებითი კოდექსების წილი</text>
-<g><title>ძირითადი კოდექსები: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="40.5" y="518.5" font-size="13" fill="#1f2328">ეროვნული კანონმდებლობა</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">შეფასება (მაღალი სანდოობა, 99,8–100%)</text>
-<g><title>ეროვნული კანონმდებლობა: 99,8%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="91.3" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">~99,8%</text>
-<text x="456.0" y="446.5" font-size="13" fill="#1f2328">რეგიონული კანონმდებლობა</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">შეფასება (დაბალი სანდოობა, 32,2–69,0%)</text>
-<g><title>რეგიონული კანონმდებლობა: 47%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="443.5" width="42.8" height="8" rx="4" fill="#9a6700"/></g>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">~47%</text>
-<text x="456.0" y="482.5" font-size="13" fill="#1f2328">სასამართლო პრაქტიკა</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">მოცული უმაღლესი სასამართლოები</text>
-<g><title>სასამართლო პრაქტიკა: 0%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0%</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">არსებული შინაარსის სისწორე</text>
-<text x="40.5" y="612.5" font-size="13" fill="#1f2328" textLength="226" lengthAdjust="spacingAndGlyphs">ცვლილებები ამოქმედების თარიღით</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">ცვლილებების წილი</text>
-<g><title>ცვლილებები ამოქმედების თარიღით: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="40.5" y="648.5" font-size="13" fill="#1f2328" textLength="226" lengthAdjust="spacingAndGlyphs">ცვლილებები ოფიციალური წყაროთი</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">Source ხაზი ან ბმული commit-ში</text>
-<g><title>ცვლილებები ოფიციალური წყაროთი: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
-<text x="456.0" y="612.5" font-size="13" fill="#1f2328">ქვეყნის კორპუსები global-law-ში</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">ეროვნული აქტები: 1</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="456.0" y="648.5" font-size="13" fill="#1f2328">შემოწმებულია ოფიციალური წყაროთი</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">Matsne (Legislative Herald of Georgia)</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">28 ოქტ. 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}</style>
+<defs><linearGradient id="yg-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a7f4b"/><stop offset="1" stop-color="#1a7f4b" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#ffffff" stroke="#dfe5e1"/>
+<rect x="659.8" y="27" width="192.2" height="24" rx="12" fill="#f4f6f5"/>
+<text x="755.9" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5f6e66">ჩანაწერი 26 ოქტ. 2026-მდე</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#14201a">საქართველოს სამართალი როგორც git ისტორია</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#f4f6f5"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">54</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66" textLength="132" lengthAdjust="spacingAndGlyphs">სამართლებრივი აქტი</text>
+<line x1="191.7" y1="86" x2="191.7" y2="126" stroke="#dfe5e1"/>
+<text x="207.7" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">11 817</text>
+<text x="207.7" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66" textLength="148" lengthAdjust="spacingAndGlyphs">ცვლილება, როგორც commit</text>
+<line x1="372.0" y1="86" x2="372.0" y2="126" stroke="#dfe5e1"/>
+<text x="388.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">15 808</text>
+<text x="388.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66" textLength="107" lengthAdjust="spacingAndGlyphs">დებულების ფაილი</text>
+<line x1="510.5" y1="86" x2="510.5" y2="126" stroke="#dfe5e1"/>
+<text x="526.5" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">11 446</text>
+<text x="526.5" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66" textLength="176" lengthAdjust="spacingAndGlyphs">ავტორი: აქტი, გამომცემელი</text>
+<line x1="719.0" y1="86" x2="719.0" y2="126" stroke="#dfe5e1"/>
+<text x="735.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a" textLength="101" lengthAdjust="spacingAndGlyphs">1921–2026</text>
+<text x="735.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">წლის ისტორია</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#f4f6f5"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">ცვლილებები ძალაში შესვლის წლის მიხედვით</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#e8ede9"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">0</text>
+<line x1="90" y1="311.5" x2="834" y2="311.5" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="315.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">200</text>
+<line x1="90" y1="277.0" x2="834" y2="277.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">400</text>
+<line x1="90" y1="242.5" x2="834" y2="242.5" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="246.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">600</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">800</text>
+<rect x="90.40" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1921: ძალაში შესული ცვლილებები: 1</title></rect>
+<rect x="104.44" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1923: ძალაში შესული ცვლილებები: 1</title></rect>
+<text x="156.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1930</text>
+<text x="226.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1940</text>
+<text x="297.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1950</text>
+<text x="367.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1960</text>
+<rect x="371.15" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1961: ძალაში შესული ცვლილებები: 4</title></rect>
+<rect x="378.17" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1962: ძალაში შესული ცვლილებები: 3</title></rect>
+<rect x="385.19" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1963: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="392.21" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1964: ძალაში შესული ცვლილებები: 4</title></rect>
+<rect x="399.23" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1965: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="406.25" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1966: ძალაში შესული ცვლილებები: 6</title></rect>
+<rect x="413.27" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1967: ძალაში შესული ცვლილებები: 1</title></rect>
+<rect x="420.29" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1968: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="427.31" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1969: ძალაში შესული ცვლილებები: 6</title></rect>
+<rect x="434.32" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1970: ძალაში შესული ცვლილებები: 8</title></rect>
+<text x="437.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1970</text>
+<rect x="441.34" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1971: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="448.36" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1972: ძალაში შესული ცვლილებები: 6</title></rect>
+<rect x="455.38" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1973: ძალაში შესული ცვლილებები: 7</title></rect>
+<rect x="462.40" y="343.4" width="6.22" height="2.6" rx="1.5" fill="url(#yg-light)"><title>1974: ძალაში შესული ცვლილებები: 15</title></rect>
+<rect x="469.42" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1975: ძალაში შესული ცვლილებები: 7</title></rect>
+<rect x="476.44" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1976: ძალაში შესული ცვლილებები: 1</title></rect>
+<rect x="483.46" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1977: ძალაში შესული ცვლილებები: 8</title></rect>
+<rect x="490.48" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1978: ძალაში შესული ცვლილებები: 2</title></rect>
+<rect x="497.49" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1979: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="504.51" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1980: ძალაში შესული ცვლილებები: 7</title></rect>
+<text x="507.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1980</text>
+<rect x="511.53" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1981: ძალაში შესული ცვლილებები: 4</title></rect>
+<rect x="518.55" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1982: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="525.57" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1983: ძალაში შესული ცვლილებები: 5</title></rect>
+<rect x="532.59" y="344.4" width="6.22" height="1.6" rx="1.5" fill="url(#yg-light)"><title>1984: ძალაში შესული ცვლილებები: 9</title></rect>
+<rect x="539.61" y="343.8" width="6.22" height="2.2" rx="1.5" fill="url(#yg-light)"><title>1985: ძალაში შესული ცვლილებები: 13</title></rect>
+<rect x="546.63" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1986: ძალაში შესული ცვლილებები: 8</title></rect>
+<rect x="553.65" y="343.6" width="6.22" height="2.4" rx="1.5" fill="url(#yg-light)"><title>1987: ძალაში შესული ცვლილებები: 14</title></rect>
+<rect x="560.66" y="344.4" width="6.22" height="1.6" rx="1.5" fill="url(#yg-light)"><title>1988: ძალაში შესული ცვლილებები: 9</title></rect>
+<rect x="567.68" y="344.5" width="6.22" height="1.5" rx="1.5" fill="url(#yg-light)"><title>1989: ძალაში შესული ცვლილებები: 7</title></rect>
+<rect x="574.70" y="342.0" width="6.22" height="4.0" rx="1.5" fill="url(#yg-light)"><title>1990: ძალაში შესული ცვლილებები: 23</title></rect>
+<text x="577.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1990</text>
+<rect x="581.72" y="334.6" width="6.22" height="11.4" rx="1.5" fill="url(#yg-light)"><title>1991: ძალაში შესული ცვლილებები: 66</title></rect>
+<rect x="588.74" y="341.5" width="6.22" height="4.5" rx="1.5" fill="url(#yg-light)"><title>1992: ძალაში შესული ცვლილებები: 26</title></rect>
+<rect x="595.76" y="340.1" width="6.22" height="5.9" rx="1.5" fill="url(#yg-light)"><title>1993: ძალაში შესული ცვლილებები: 34</title></rect>
+<rect x="602.78" y="340.3" width="6.22" height="5.7" rx="1.5" fill="url(#yg-light)"><title>1994: ძალაში შესული ცვლილებები: 33</title></rect>
+<rect x="609.80" y="339.6" width="6.22" height="6.4" rx="1.5" fill="url(#yg-light)"><title>1995: ძალაში შესული ცვლილებები: 37</title></rect>
+<rect x="616.82" y="329.6" width="6.22" height="16.4" rx="1.5" fill="url(#yg-light)"><title>1996: ძალაში შესული ცვლილებები: 95</title></rect>
+<rect x="623.83" y="316.3" width="6.22" height="29.7" rx="1.5" fill="url(#yg-light)"><title>1997: ძალაში შესული ცვლილებები: 172</title></rect>
+<rect x="630.85" y="319.8" width="6.22" height="26.2" rx="1.5" fill="url(#yg-light)"><title>1998: ძალაში შესული ცვლილებები: 152</title></rect>
+<rect x="637.87" y="304.8" width="6.22" height="41.2" rx="1.5" fill="url(#yg-light)"><title>1999: ძალაში შესული ცვლილებები: 239</title></rect>
+<rect x="644.89" y="319.1" width="6.22" height="26.9" rx="1.5" fill="url(#yg-light)"><title>2000: ძალაში შესული ცვლილებები: 156</title></rect>
+<text x="648.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2000</text>
+<rect x="651.91" y="320.6" width="6.22" height="25.4" rx="1.5" fill="url(#yg-light)"><title>2001: ძალაში შესული ცვლილებები: 147</title></rect>
+<rect x="658.93" y="318.4" width="6.22" height="27.6" rx="1.5" fill="url(#yg-light)"><title>2002: ძალაში შესული ცვლილებები: 160</title></rect>
+<rect x="665.95" y="304.3" width="6.22" height="41.7" rx="1.5" fill="url(#yg-light)"><title>2003: ძალაში შესული ცვლილებები: 242</title></rect>
+<rect x="672.97" y="304.1" width="6.22" height="41.9" rx="1.5" fill="url(#yg-light)"><title>2004: ძალაში შესული ცვლილებები: 243</title></rect>
+<rect x="679.98" y="273.6" width="6.22" height="72.5" rx="1.5" fill="url(#yg-light)"><title>2005: ძალაში შესული ცვლილებები: 420</title></rect>
+<rect x="687.00" y="263.2" width="6.22" height="82.8" rx="1.5" fill="url(#yg-light)"><title>2006: ძალაში შესული ცვლილებები: 480</title></rect>
+<rect x="694.02" y="259.2" width="6.22" height="86.8" rx="1.5" fill="url(#yg-light)"><title>2007: ძალაში შესული ცვლილებები: 503</title></rect>
+<rect x="701.04" y="292.4" width="6.22" height="53.6" rx="1.5" fill="url(#yg-light)"><title>2008: ძალაში შესული ცვლილებები: 311</title></rect>
+<rect x="708.06" y="275.1" width="6.22" height="70.9" rx="1.5" fill="url(#yg-light)"><title>2009: ძალაში შესული ცვლილებები: 411</title></rect>
+<rect x="715.08" y="251.0" width="6.22" height="95.0" rx="1.5" fill="url(#yg-light)"><title>2010: ძალაში შესული ცვლილებები: 551</title></rect>
+<text x="718.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2010</text>
+<rect x="722.10" y="264.1" width="6.22" height="81.9" rx="1.5" fill="url(#yg-light)"><title>2011: ძალაში შესული ცვლილებები: 475</title></rect>
+<rect x="729.12" y="274.8" width="6.22" height="71.2" rx="1.5" fill="url(#yg-light)"><title>2012: ძალაში შესული ცვლილებები: 413</title></rect>
+<rect x="736.14" y="271.5" width="6.22" height="74.5" rx="1.5" fill="url(#yg-light)"><title>2013: ძალაში შესული ცვლილებები: 432</title></rect>
+<rect x="743.15" y="279.8" width="6.22" height="66.2" rx="1.5" fill="url(#yg-light)"><title>2014: ძალაში შესული ცვლილებები: 384</title></rect>
+<rect x="750.17" y="265.1" width="6.22" height="80.9" rx="1.5" fill="url(#yg-light)"><title>2015: ძალაში შესული ცვლილებები: 469</title></rect>
+<rect x="757.19" y="299.3" width="6.22" height="46.7" rx="1.5" fill="url(#yg-light)"><title>2016: ძალაში შესული ცვლილებები: 271</title></rect>
+<rect x="764.21" y="257.7" width="6.22" height="88.3" rx="1.5" fill="url(#yg-light)"><title>2017: ძალაში შესული ცვლილებები: 512</title></rect>
+<rect x="771.23" y="227.7" width="6.22" height="118.3" rx="1.5" fill="url(#yg-light)"><title>2018: ძალაში შესული ცვლილებები: 686</title></rect>
+<text x="774.3" y="219.7" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#14201a">2018 წელს: 686</text>
+<rect x="778.25" y="267.0" width="6.22" height="79.0" rx="1.5" fill="url(#yg-light)"><title>2019: ძალაში შესული ცვლილებები: 458</title></rect>
+<rect x="785.27" y="254.9" width="6.22" height="91.1" rx="1.5" fill="url(#yg-light)"><title>2020: ძალაში შესული ცვლილებები: 528</title></rect>
+<text x="788.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2020</text>
+<rect x="792.29" y="284.8" width="6.22" height="61.2" rx="1.5" fill="url(#yg-light)"><title>2021: ძალაში შესული ცვლილებები: 355</title></rect>
+<rect x="799.31" y="285.5" width="6.22" height="60.5" rx="1.5" fill="url(#yg-light)"><title>2022: ძალაში შესული ცვლილებები: 351</title></rect>
+<rect x="806.32" y="273.0" width="6.22" height="73.0" rx="1.5" fill="url(#yg-light)"><title>2023: ძალაში შესული ცვლილებები: 423</title></rect>
+<rect x="813.34" y="279.2" width="6.22" height="66.8" rx="1.5" fill="url(#yg-light)"><title>2024: ძალაში შესული ცვლილებები: 387</title></rect>
+<rect x="820.36" y="236.1" width="6.22" height="109.9" rx="1.5" fill="url(#yg-light)"><title>2025: ძალაში შესული ცვლილებები: 637</title></rect>
+<rect x="827.38" y="284.2" width="6.22" height="61.8" rx="1.5" fill="url(#yg-light)"><title>2026: ძალაში შესული ცვლილებები: 358</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">ძალაში შესვლის დღით დათარიღებული ცვლილებები: 11 817.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#f4f6f5"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">სისრულე, შემოწმებული ოფიციალური წყაროებით 12 ნოე. 2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">კონსტიტუცია</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">არის რეპოზიტორიაში</text>
+<g><title>კონსტიტუცია: 100%</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">რეგიონული კანონმდებლობა</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">შეფასება (დაბალი სანდოობა, 32,2–69,0%)</text>
+<g><title>რეგიონული კანონმდებლობა: 47%</title><rect x="708.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="708.0" y="464.0" width="29.0" height="4" rx="2" fill="#9a6200"/></g>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">~47%</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">ძირითადი კოდექსები</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">არსებითი კოდექსების წილი</text>
+<g><title>ძირითადი კოდექსები: 100%</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">სასამართლო პრაქტიკა</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">მოცული უმაღლესი სასამართლოები</text>
+<g><title>სასამართლო პრაქტიკა: 0%</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">0%</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">ეროვნული კანონმდებლობა</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">შეფასება (მაღალი სანდოობა, 99,8–100%)</text>
+<g><title>ეროვნული კანონმდებლობა: 99,8%</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="554.0" width="61.9" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">~99,8%</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#f4f6f5"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">არსებული შინაარსის სისწორე</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a" textLength="230" lengthAdjust="spacingAndGlyphs">ცვლილებები ამოქმედების თარიღით</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">ცვლილებების წილი</text>
+<g><title>ცვლილებები ამოქმედების თარიღით: 100%</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">ქვეყნის კორპუსები global-law-ში</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">ეროვნული აქტები: 1</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">1</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a" textLength="230" lengthAdjust="spacingAndGlyphs">ცვლილებები ოფიციალური წყაროთი</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">Source ხაზი ან ბმული commit-ში</text>
+<g><title>ცვლილებები ოფიციალური წყაროთი: 100%</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100%</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a" textLength="257" lengthAdjust="spacingAndGlyphs">შემოწმებულია ოფიციალური წყაროთი</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">Matsne (Legislative Herald of Georgia)</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">28 ოქტ. 2026</text>
 </svg>
