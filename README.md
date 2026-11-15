@@ -30,7 +30,8 @@
 
 - **[ჰკითხეთ Claude-ს საქართველოს სამართლის შესახებ](https://global-law.lexifina.com/v1/try_claude?country=georgia)**: ხსნის Claude-ს მზა პირველი კითხვით.
 - **[ჰკითხეთ ChatGPT-ს](https://global-law.lexifina.com/v1/try_chatgpt?country=georgia)**: იგივე კითხვა ChatGPT-ში.
-- **[გამოიძახეთ API ბრაუზერში](https://global-law.lexifina.com/v1/search_law?query=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90&jurisdictions=georgia)**: საქართველოს სამართალში სიტყვის „შვებულება“ ძიება, პასუხი JSON-ის სახით. დოკუმენტაცია [აქ არის](https://lexifina.com/api/global-law).
+- **[მოძებნეთ საქართველოს სამართალში ჩვენს საიტზე](https://lexifina.com/law?country=georgia&q=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90)**: „შვებულება“ ძიება, თითოეული დებულების ტექსტითა და მისი ვერსიებით, ანგარიშის გარეშე.
+- **[REST API დეველოპერებისთვის](https://global-law.lexifina.com/v1/search_law?query=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90&jurisdiction=georgia)**: იგივე ძიება JSON-ის სახით, გასაღების გარეშე. დოკუმენტაცია [აქ არის](https://lexifina.com/api/global-law).
 
 ორივე ასისტენტი ჩანაწერს კითხულობს უფასო კონექტორით Global law (MCP, `https://global-law.lexifina.com/mcp`); პირველად ჩატი მოგცემთ ბმულს, რომლითაც კონექტორი ემატება. იკითხეთ ქართულად ან ინგლისურად.
 

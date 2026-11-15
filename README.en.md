@@ -30,7 +30,8 @@ The text is in Georgian, as Matsne publishes it. Matsne's unofficial English tra
 
 - **[Ask Claude about Georgian law](https://global-law.lexifina.com/v1/try_claude?country=georgia)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=georgia)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90&jurisdictions=georgia)**: a search of Georgian law for "შვებულება" (leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Georgian law on our site](https://lexifina.com/law?country=georgia&q=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90)**: a search for "შვებულება" (leave), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%E1%83%A8%E1%83%95%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%90&jurisdiction=georgia)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Georgian or in English.
 
