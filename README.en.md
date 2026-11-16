@@ -61,6 +61,7 @@ Each change is credited to the act that made it, as Matsne lists it (`საქ�
 - Replaying every change of a law gives Matsne's latest publication of it, for every law; no publication was unreadable (`data/issues.csv` is empty).
 - The build is deterministic: the same pages give the same commit hashes, and the sha256 of every page read is in `data/page-sha256.tsv`. See [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: no merge commits, no rewriting, and every commit's trailers parse with `git interpret-trailers --parse`.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the act that made it, as Matsne lists it (`საქ�
 See [`LICENSE`](LICENSE). Under article 8 of the Law of Georgia on Copyright and Related Rights, official documents (laws, other normative acts and their official translations) are not objects of copyright; the texts are reproduced without change to their wording. Lexifina's own contributions (tools, file arrangement, commit messages and documentation) are CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model, and no model runs while the record is fetched, parsed or built (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
